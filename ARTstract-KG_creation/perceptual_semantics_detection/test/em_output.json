@@ -1,0 +1,47 @@
+{
+  "3253": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2808944284915924
+      }
+    }
+  },
+  "11756": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.34519004821777344
+      }
+    }
+  },
+  "14978": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5551347732543945
+      }
+    }
+  },
+  "137": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2482031136751175
+      }
+    }
+  },
+  "3262": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.31547611951828003
+      }
+    }
+  }
+}

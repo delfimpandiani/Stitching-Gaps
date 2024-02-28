@@ -1,0 +1,52 @@
+{
+  "3253": {
+    "hp": {
+      "ARTstract_hp_2023_06_26": {
+        "human_presence": "False",
+        "lexical_presence": "Human not depicted",
+        "conceptnet_concept": "conceptnet:nonhuman",
+        "annotation_strength": 0.27267253200843633
+      }
+    }
+  },
+  "11756": {
+    "hp": {
+      "ARTstract_hp_2023_06_26": {
+        "human_presence": "False",
+        "lexical_presence": "Human not depicted",
+        "conceptnet_concept": "conceptnet:nonhuman",
+        "annotation_strength": 0.14496619002737807
+      }
+    }
+  },
+  "14978": {
+    "hp": {
+      "ARTstract_hp_2023_06_26": {
+        "human_presence": "True",
+        "lexical_presence": "Human depicted",
+        "conceptnet_concept": "conceptnet:human",
+        "annotation_strength": 0.7582577436257694
+      }
+    }
+  },
+  "137": {
+    "hp": {
+      "ARTstract_hp_2023_06_26": {
+        "human_presence": "True",
+        "lexical_presence": "Human depicted",
+        "conceptnet_concept": "conceptnet:human",
+        "annotation_strength": 0.9877915878018892
+      }
+    }
+  },
+  "3262": {
+    "hp": {
+      "ARTstract_hp_2023_06_26": {
+        "human_presence": "True",
+        "lexical_presence": "Human depicted",
+        "conceptnet_concept": "conceptnet:human",
+        "annotation_strength": 0.6704812413101978
+      }
+    }
+  }
+}

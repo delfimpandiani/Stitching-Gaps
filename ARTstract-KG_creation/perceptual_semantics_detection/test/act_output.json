@@ -1,0 +1,47 @@
+{
+  "3253": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9755903482437134
+      }
+    }
+  },
+  "11756": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.6434988975524902
+      }
+    }
+  },
+  "14978": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.9970308542251587
+      }
+    }
+  },
+  "137": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.7957392334938049
+      }
+    }
+  },
+  "3262": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9706109762191772
+      }
+    }
+  }
+}

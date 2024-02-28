@@ -1,0 +1,226 @@
+@prefix ns1: <https://w3id.org/situannotate#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:14978_ARTstract_act_2023_06_28 a ns1:ActionAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_running ;
+    ns1:hasAnnotationStrength 0.9970308542251587 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_act_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_action ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/running> .
+
+ns1:14978_ARTstract_age_2023_06_26 a ns1:AgeAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_20-29 ;
+    ns1:hasAnnotationStrength 0.3349549472332001 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_age_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_age ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/twenties> .
+
+ns1:14978_ARTstract_as_2023_06_26 a ns1:ArtStyleAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_Impressionism ;
+    ns1:hasAnnotationStrength 0.6149182915687561 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_as_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_art_style ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/impressionism> .
+
+ns1:14978_ARTstract_color_2023_06_26_1 a ns1:ColorAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_silver ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_color_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_color ;
+    ns1:rgbCoordinateBlue "200"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateGreen "187"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateRed "175"^^xsd:nonNegativeInteger ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/silver> .
+
+ns1:14978_ARTstract_color_2023_06_26_2 a ns1:ColorAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_dimgray ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_color_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_color ;
+    ns1:rgbCoordinateBlue "84"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateGreen "117"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateRed "124"^^xsd:nonNegativeInteger ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/gray> .
+
+ns1:14978_ARTstract_color_2023_06_26_3 a ns1:ColorAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_gray ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_color_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_color ;
+    ns1:rgbCoordinateBlue "129"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateGreen "133"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateRed "130"^^xsd:nonNegativeInteger ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/gray> .
+
+ns1:14978_ARTstract_color_2023_06_26_4 a ns1:ColorAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_dimgray ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_color_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_color ;
+    ns1:rgbCoordinateBlue "123"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateGreen "113"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateRed "98"^^xsd:nonNegativeInteger ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/gray> .
+
+ns1:14978_ARTstract_color_2023_06_26_5 a ns1:ColorAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_dimgray ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_color_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_color ;
+    ns1:rgbCoordinateBlue "108"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateGreen "100"^^xsd:nonNegativeInteger ;
+    ns1:rgbCoordinateRed "100"^^xsd:nonNegativeInteger ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/gray> .
+
+ns1:14978_ARTstract_em_2023_06_26 a ns1:EmotionAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_contentment ;
+    ns1:hasAnnotationStrength 0.5551347732543945 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_em_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_emotion ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/contentment> .
+
+ns1:14978_ARTstract_hp_2023_06_26 a ns1:HumanPresenceAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_True ;
+    ns1:hasAnnotationStrength 0.7582577436257694 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_hp_2023_06_26 ;
+    ns1:isClassifiedBy ns1:detected_human_presence ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/human> .
+
+ns1:14978_ARTstract_ic_2023_06_28 a ns1:ImageCaptionAnnotation ;
+    rdfs:comment "painting of children playing in the water at the beach"^^xsd:string ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_ic_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_image_caption .
+
+ns1:14978_ARTstract_od_2023_06_28_1 a ns1:ObjectAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_person ;
+    ns1:hasAnnotationStrength 0.999 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_od_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_object ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person> .
+
+ns1:14978_ARTstract_od_2023_06_28_2 a ns1:ObjectAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_surfboard ;
+    ns1:hasAnnotationStrength 0.962 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_od_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_object ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/surfboard> .
+
+ns1:14978_ARTstract_od_2023_06_28_3 a ns1:ObjectAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_person ;
+    ns1:hasAnnotationStrength 0.988 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_od_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_object ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person> .
+
+ns1:14978_ARTstract_od_2023_06_28_4 a ns1:ObjectAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_person ;
+    ns1:hasAnnotationStrength 0.996 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_od_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_object ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person> .
+
+ns1:14978_ARTstract_od_2023_06_28_5 a ns1:ObjectAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_person ;
+    ns1:hasAnnotationStrength 0.999 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_od_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_object ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person> .
+
+ns1:14978_ARTstract_od_2023_06_28_6 a ns1:ObjectAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_person ;
+    ns1:hasAnnotationStrength 0.92 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_od_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_object ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person> .
+
+ns1:14978_ARTstract_od_2023_06_28_7 a ns1:ObjectAnnotation ;
+    ns1:aboutAnnotatedEntity ns1:ARTstract_14978 ;
+    ns1:annotationWithLexicalEntry ns1:le_person ;
+    ns1:hasAnnotationStrength 1.0 ;
+    ns1:isAnnotationInvolvedInSituation ns1:ARTstract_od_2023_06_28 ;
+    ns1:isClassifiedBy ns1:detected_object ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person> .
+
+ns1:le_20-29 a ns1:LexicalEntry ;
+    rdfs:label "20-29"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/twenties> .
+
+ns1:le_Impressionism a ns1:LexicalEntry ;
+    rdfs:label "Impressionism"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/impressionism> .
+
+ns1:le_True a ns1:LexicalEntry ;
+    rdfs:label "True"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/human> .
+
+ns1:le_contentment a ns1:LexicalEntry ;
+    rdfs:label "contentment"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/contentment> .
+
+ns1:le_gray a ns1:LexicalEntry ;
+    rdfs:label "gray"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/gray> .
+
+ns1:le_running a ns1:LexicalEntry ;
+    rdfs:label "running"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/running> .
+
+ns1:le_silver a ns1:LexicalEntry ;
+    rdfs:label "silver"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/silver> .
+
+ns1:le_surfboard a ns1:LexicalEntry ;
+    rdfs:label "surfboard"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/surfboard> .
+
+ns1:le_dimgray a ns1:LexicalEntry ;
+    rdfs:label "dimgray"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/gray> .
+
+ns1:le_person a ns1:LexicalEntry ;
+    rdfs:label "person"^^xsd:string ;
+    ns1:typedByConcept <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person> .
+
+ns1:ARTstract_14978 a ns1:Image ;
+    rdfs:comment "painting of children playing in the water at the beach"^^xsd:string ;
+    ns1:hasImageLabelTypedBy <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/contentment>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/gray>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/human>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/impressionism>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/person>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/running>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/silver>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/surfboard>,
+        <http://etna.istc.cnr.it/framester2/conceptnet/5.7.0/c/en/twenties> ;
+    ns1:isAnnotatedWithLexicalEntry ns1:le_20-29,
+        ns1:le_Impressionism,
+        ns1:le_True,
+        ns1:le_contentment,
+        ns1:le_dimgray,
+        ns1:le_gray,
+        ns1:le_person,
+        ns1:le_running,
+        ns1:le_silver,
+        ns1:le_surfboard ;
+    ns1:isInvolvedInAnnotationSituation ns1:ARTstract_act_2023_06_28,
+        ns1:ARTstract_age_2023_06_26,
+        ns1:ARTstract_as_2023_06_26,
+        ns1:ARTstract_color_2023_06_26,
+        ns1:ARTstract_em_2023_06_26,
+        ns1:ARTstract_hp_2023_06_26,
+        ns1:ARTstract_ic_2023_06_28,
+        ns1:ARTstract_od_2023_06_28 .
+

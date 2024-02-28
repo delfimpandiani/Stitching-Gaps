@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="https://w3id.org/situannotate#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#COCO-dataset">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_hp_2023_06_26">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#HumanPresenceAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#hp_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#adhamelarabawy_fashion_human_classifier"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-26</ns1:onDate>
+    <ns1:hasDetectionThreshold>0.5</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_age_2023_06_26">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#AgeAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#age_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#nateraw_vit-age-classifier"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-26</ns1:onDate>
+    <ns1:hasDetectionThreshold>top_one</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#oschamp_vit-artworkclassifier">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#visual_transformer"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#artbench-10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_color_2023_06_26">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ColorAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#color_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#ColorThief"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-26</ns1:onDate>
+    <ns1:hasDetectionThreshold>top_five</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_od_2023_06_28">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ObjectAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#od_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#facebook_detr-resnet-101"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-28</ns1:onDate>
+    <ns1:hasDetectionThreshold>0.7</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#color_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color detections are annotation situations in which annotations play the role of detected_color, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_color"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#artemis_image-emotion-classifier">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#ResNet"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#artemis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_em_2023_06_26">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#EmotionAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#em_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#artemis_image-emotion-classifier"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-26</ns1:onDate>
+    <ns1:hasDetectionThreshold>top_one</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_ic_2023_06_28">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageCaptionAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#ic_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#Salesforce_blip-image-captioning-large"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-28</ns1:onDate>
+    <ns1:hasDetectionThreshold>top_one</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#adhamelarabawy_fashion_human_classifier">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#visual_transformer"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#deep-fashion-v1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#od_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object detections are annotation situations in which annotations play the role of detected_object, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_act_2023_06_28">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ActionAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#act_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#DunnBC22_vit-base-patch16-224-in21k_Human_Activity_Recognition"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-28</ns1:onDate>
+    <ns1:hasDetectionThreshold>top_one</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#hp_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human presence detections are annotation situations in which annotations play the role of detected_human_presence, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_human_presence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_action">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_human_presence">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#artemis">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_image_caption">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#facebook_detr-resnet-101">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#detection_transformer"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#COCO-dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ColorThief">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#color-thief"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#not-applicable"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#nateraw_vit-age-classifier">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#visual_transformer"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#fair-face"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#visual_transformer">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ModelArchitecture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_color">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract_as_2023_06_26">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtStyleAnnotationSituation"/>
+    <ns1:satisfies rdf:resource="https://w3id.org/situannotate#as_detection_desc"/>
+    <ns1:involvesAnnotator rdf:resource="https://w3id.org/situannotate#oschamp_vit-artworkclassifier"/>
+    <ns1:involvesDataset rdf:resource="https://w3id.org/situannotate#ARTstract"/>
+    <ns1:atPlace rdf:resource="https://w3id.org/situannotate#Italy"/>
+    <ns1:onDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-06-26</ns1:onDate>
+    <ns1:hasDetectionThreshold>top_one</ns1:hasDetectionThreshold>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ic_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image caption detections are annotation situations in which annotations play the role of detected_image_caption, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_image_caption"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#Salesforce_blip-image-captioning-large">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#visual_transformer"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#COCO-dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#age_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Age detections are annotation situations in which annotations play the role of detected_age, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_age"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#em_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emotion detections are annotation situations in which annotations play the role of detected_emotion, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_emotion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detection_transformer">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ModelArchitecture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#fair-face">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_age">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_art_style">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#act_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action detections are annotation situations in which annotations play the role of detected_action, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_action"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#as_detection_desc">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationDescription"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Art style detections are annotation situations in which annotations play the role of detected_art_style, assigned by an Annotator according to a certain detection threshold or heuristic</rdfs:comment>
+    <ns1:defines rdf:resource="https://w3id.org/situannotate#detected_art_style"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#DunnBC22_vit-base-patch16-224-in21k_Human_Activity_Recognition">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ArtificialAnnotator"/>
+    <ns1:hasModelArchitecture rdf:resource="https://w3id.org/situannotate#visual_transformer"/>
+    <ns1:pretrainedOnDataset rdf:resource="https://w3id.org/situannotate#har-dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#not-applicable">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#har-dataset">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#deep-fashion-v1">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ResNet">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ModelArchitecture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#ARTstract">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_object">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#artbench-10">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#color-thief">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ModelArchitecture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#detected_emotion">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#ImageAnnotationRole"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/situannotate#Italy">
+    <rdf:type rdf:resource="https://w3id.org/situannotate#Country"/>
+  </rdf:Description>
+</rdf:RDF>

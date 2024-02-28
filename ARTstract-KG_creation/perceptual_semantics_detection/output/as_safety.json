@@ -1,0 +1,3206 @@
+{
+  "12150": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5590422749519348
+      }
+    }
+  },
+  "12266": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.4468078315258026
+      }
+    }
+  },
+  "3127": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.26834142208099365
+      }
+    }
+  },
+  "3149": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6232355237007141
+      }
+    }
+  },
+  "3124": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.655718982219696
+      }
+    }
+  },
+  "3195": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.839972734451294
+      }
+    }
+  },
+  "3185": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.806964099407196
+      }
+    }
+  },
+  "12283": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.4303015470504761
+      }
+    }
+  },
+  "3093": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.41911232471466064
+      }
+    }
+  },
+  "3172": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.27863797545433044
+      }
+    }
+  },
+  "3026": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6388312578201294
+      }
+    }
+  },
+  "3046": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4482945203781128
+      }
+    }
+  },
+  "12328": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.6277150511741638
+      }
+    }
+  },
+  "3214": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6367890238761902
+      }
+    }
+  },
+  "3207": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6416504383087158
+      }
+    }
+  },
+  "12292": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.33716264367103577
+      }
+    }
+  },
+  "12194": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.5930808782577515
+      }
+    }
+  },
+  "12115": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8275918960571289
+      }
+    }
+  },
+  "12181": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.45162197947502136
+      }
+    }
+  },
+  "12279": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.9091120958328247
+      }
+    }
+  },
+  "12305": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.45033204555511475
+      }
+    }
+  },
+  "12246": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.6312105059623718
+      }
+    }
+  },
+  "12193": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4208292067050934
+      }
+    }
+  },
+  "3170": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7905583381652832
+      }
+    }
+  },
+  "3197": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8601977229118347
+      }
+    }
+  },
+  "3155": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.4799692630767822
+      }
+    }
+  },
+  "12230": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8219026327133179
+      }
+    }
+  },
+  "3067": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.43742209672927856
+      }
+    }
+  },
+  "3183": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.4349076747894287
+      }
+    }
+  },
+  "12209": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.4748268723487854
+      }
+    }
+  },
+  "12229": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.7710000872612
+      }
+    }
+  },
+  "12330": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.743828535079956
+      }
+    }
+  },
+  "3151": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9217104911804199
+      }
+    }
+  },
+  "3073": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5224087238311768
+      }
+    }
+  },
+  "12265": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.369438111782074
+      }
+    }
+  },
+  "12323": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6743676066398621
+      }
+    }
+  },
+  "12264": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.41235923767089844
+      }
+    }
+  },
+  "12281": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.4145223796367645
+      }
+    }
+  },
+  "3015": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5052535533905029
+      }
+    }
+  },
+  "12293": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.4415445029735565
+      }
+    }
+  },
+  "2989": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4319600462913513
+      }
+    }
+  },
+  "3121": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5428018569946289
+      }
+    }
+  },
+  "3184": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.28050854802131653
+      }
+    }
+  },
+  "3189": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7645032405853271
+      }
+    }
+  },
+  "12261": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.6686393022537231
+      }
+    }
+  },
+  "12198": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.4196637272834778
+      }
+    }
+  },
+  "12225": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.48309898376464844
+      }
+    }
+  },
+  "3018": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.3266322612762451
+      }
+    }
+  },
+  "3194": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.28108277916908264
+      }
+    }
+  },
+  "3177": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.3865681290626526
+      }
+    }
+  },
+  "12116": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.5071980953216553
+      }
+    }
+  },
+  "12220": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.8295072913169861
+      }
+    }
+  },
+  "12127": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.23044897615909576
+      }
+    }
+  },
+  "3107": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.3232623040676117
+      }
+    }
+  },
+  "3212": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8097683191299438
+      }
+    }
+  },
+  "3092": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6149663925170898
+      }
+    }
+  },
+  "12165": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.3818354904651642
+      }
+    }
+  },
+  "12179": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7554498314857483
+      }
+    }
+  },
+  "12100": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.6084970831871033
+      }
+    }
+  },
+  "12231": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.4323701560497284
+      }
+    }
+  },
+  "12249": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.3973720371723175
+      }
+    }
+  },
+  "3016": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.56296706199646
+      }
+    }
+  },
+  "3108": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.504065215587616
+      }
+    }
+  },
+  "180": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.47743621468544006
+      }
+    }
+  },
+  "3104": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.179774671792984
+      }
+    }
+  },
+  "3011": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5887188911437988
+      }
+    }
+  },
+  "3050": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8333501219749451
+      }
+    }
+  },
+  "3129": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6257737874984741
+      }
+    }
+  },
+  "3219": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7045613527297974
+      }
+    }
+  },
+  "12325": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.3853358030319214
+      }
+    }
+  },
+  "12099": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.39833229780197144
+      }
+    }
+  },
+  "12214": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7874926328659058
+      }
+    }
+  },
+  "12312": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.42072075605392456
+      }
+    }
+  },
+  "3128": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6476377248764038
+      }
+    }
+  },
+  "12321": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.4399986267089844
+      }
+    }
+  },
+  "3145": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.39280441403388977
+      }
+    }
+  },
+  "3058": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.266794353723526
+      }
+    }
+  },
+  "3180": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5088510513305664
+      }
+    }
+  },
+  "3078": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6845753192901611
+      }
+    }
+  },
+  "3007": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6906625032424927
+      }
+    }
+  },
+  "3106": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8712139129638672
+      }
+    }
+  },
+  "37416": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5505093336105347
+      }
+    }
+  },
+  "12235": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.6903144121170044
+      }
+    }
+  },
+  "12205": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.5364266037940979
+      }
+    }
+  },
+  "3206": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.836225688457489
+      }
+    }
+  },
+  "3200": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5854954123497009
+      }
+    }
+  },
+  "12259": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.6360954642295837
+      }
+    }
+  },
+  "3022": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.3357546627521515
+      }
+    }
+  },
+  "12167": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8134089112281799
+      }
+    }
+  },
+  "3135": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7078511714935303
+      }
+    }
+  },
+  "3115": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8257318139076233
+      }
+    }
+  },
+  "12144": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.7530904412269592
+      }
+    }
+  },
+  "12169": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.6441200971603394
+      }
+    }
+  },
+  "3012": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6857295036315918
+      }
+    }
+  },
+  "3064": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.4190226197242737
+      }
+    }
+  },
+  "3021": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8373194336891174
+      }
+    }
+  },
+  "12267": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8408656120300293
+      }
+    }
+  },
+  "12307": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.45037004351615906
+      }
+    }
+  },
+  "3163": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.35143226385116577
+      }
+    }
+  },
+  "3025": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9006709456443787
+      }
+    }
+  },
+  "12122": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.7674424052238464
+      }
+    }
+  },
+  "12149": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.7303587198257446
+      }
+    }
+  },
+  "12333": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.648587703704834
+      }
+    }
+  },
+  "12136": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.35575640201568604
+      }
+    }
+  },
+  "3084": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6119696497917175
+      }
+    }
+  },
+  "12222": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5720452070236206
+      }
+    }
+  },
+  "12256": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.874569833278656
+      }
+    }
+  },
+  "3077": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8711695075035095
+      }
+    }
+  },
+  "2992": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8357899188995361
+      }
+    }
+  },
+  "12241": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.5823214054107666
+      }
+    }
+  },
+  "12291": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.6750178337097168
+      }
+    }
+  },
+  "3228": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7242467999458313
+      }
+    }
+  },
+  "3043": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7697895169258118
+      }
+    }
+  },
+  "3113": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5500422716140747
+      }
+    }
+  },
+  "12301": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.7740359902381897
+      }
+    }
+  },
+  "3166": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6958377957344055
+      }
+    }
+  },
+  "12296": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.48265790939331055
+      }
+    }
+  },
+  "12113": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.6067836284637451
+      }
+    }
+  },
+  "3085": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5137067437171936
+      }
+    }
+  },
+  "2995": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.885381281375885
+      }
+    }
+  },
+  "12166": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.7348458766937256
+      }
+    }
+  },
+  "2996": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.873747706413269
+      }
+    }
+  },
+  "12234": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.621932327747345
+      }
+    }
+  },
+  "3038": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5096553564071655
+      }
+    }
+  },
+  "12137": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.645850419998169
+      }
+    }
+  },
+  "3053": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.2444896250963211
+      }
+    }
+  },
+  "3082": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4997222125530243
+      }
+    }
+  },
+  "3181": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6376201510429382
+      }
+    }
+  },
+  "3152": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5678073763847351
+      }
+    }
+  },
+  "3119": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5827074646949768
+      }
+    }
+  },
+  "2997": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5050442814826965
+      }
+    }
+  },
+  "12227": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.8110396862030029
+      }
+    }
+  },
+  "3105": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5268961787223816
+      }
+    }
+  },
+  "12145": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7500037550926208
+      }
+    }
+  },
+  "12184": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4590409994125366
+      }
+    }
+  },
+  "3232": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6859389543533325
+      }
+    }
+  },
+  "3143": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5394700765609741
+      }
+    }
+  },
+  "3148": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7552341222763062
+      }
+    }
+  },
+  "12140": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.6354957222938538
+      }
+    }
+  },
+  "12134": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.3361738324165344
+      }
+    }
+  },
+  "12154": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8153367042541504
+      }
+    }
+  },
+  "12121": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.4663006067276001
+      }
+    }
+  },
+  "12212": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7172818779945374
+      }
+    }
+  },
+  "37415": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.17107857763767242
+      }
+    }
+  },
+  "12192": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.6802823543548584
+      }
+    }
+  },
+  "12160": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.4556381404399872
+      }
+    }
+  },
+  "12188": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.514941930770874
+      }
+    }
+  },
+  "3193": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6673292517662048
+      }
+    }
+  },
+  "12250": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.6640052199363708
+      }
+    }
+  },
+  "3157": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7327617406845093
+      }
+    }
+  },
+  "3063": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.479467511177063
+      }
+    }
+  },
+  "12171": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.6181716322898865
+      }
+    }
+  },
+  "3055": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8860682845115662
+      }
+    }
+  },
+  "12180": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7275833487510681
+      }
+    }
+  },
+  "12141": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.3293778896331787
+      }
+    }
+  },
+  "3173": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6216222047805786
+      }
+    }
+  },
+  "3192": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.36433422565460205
+      }
+    }
+  },
+  "12239": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.356596976518631
+      }
+    }
+  },
+  "3059": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8475545048713684
+      }
+    }
+  },
+  "3125": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.40306031703948975
+      }
+    }
+  },
+  "12290": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.410458505153656
+      }
+    }
+  },
+  "3074": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.47413548827171326
+      }
+    }
+  },
+  "12243": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.6943185925483704
+      }
+    }
+  },
+  "37412": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4173122048377991
+      }
+    }
+  },
+  "12236": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.6991755366325378
+      }
+    }
+  },
+  "12282": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.48420998454093933
+      }
+    }
+  },
+  "12223": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.5727397203445435
+      }
+    }
+  },
+  "12272": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.7845298051834106
+      }
+    }
+  },
+  "3191": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6864150166511536
+      }
+    }
+  },
+  "12174": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.7874255180358887
+      }
+    }
+  },
+  "3017": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.25074201822280884
+      }
+    }
+  },
+  "12164": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.7433146834373474
+      }
+    }
+  },
+  "12251": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.5699292421340942
+      }
+    }
+  },
+  "12206": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.3972771167755127
+      }
+    }
+  },
+  "12123": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.5597761273384094
+      }
+    }
+  },
+  "12130": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.7635909914970398
+      }
+    }
+  },
+  "3049": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.2337503731250763
+      }
+    }
+  },
+  "2991": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6720025539398193
+      }
+    }
+  },
+  "12327": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.6380407810211182
+      }
+    }
+  },
+  "12163": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.43964192271232605
+      }
+    }
+  },
+  "12318": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.5518975853919983
+      }
+    }
+  },
+  "3039": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7521346807479858
+      }
+    }
+  },
+  "12128": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.627861499786377
+      }
+    }
+  },
+  "12297": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.4964698553085327
+      }
+    }
+  },
+  "3126": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4024881422519684
+      }
+    }
+  },
+  "12298": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7284648418426514
+      }
+    }
+  },
+  "3066": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8321657180786133
+      }
+    }
+  },
+  "12195": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.4168962836265564
+      }
+    }
+  },
+  "3056": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7601466178894043
+      }
+    }
+  },
+  "3097": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6326367259025574
+      }
+    }
+  },
+  "12175": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.6738740801811218
+      }
+    }
+  },
+  "3141": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6113349795341492
+      }
+    }
+  },
+  "37417": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6418993473052979
+      }
+    }
+  },
+  "3023": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.26811617612838745
+      }
+    }
+  },
+  "3139": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8168444037437439
+      }
+    }
+  },
+  "12233": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.2365032583475113
+      }
+    }
+  },
+  "12110": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.5486711859703064
+      }
+    }
+  },
+  "12159": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.7723414897918701
+      }
+    }
+  },
+  "3035": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.2789555788040161
+      }
+    }
+  },
+  "12168": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7625784277915955
+      }
+    }
+  },
+  "3220": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.42369914054870605
+      }
+    }
+  },
+  "12277": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5674643516540527
+      }
+    }
+  },
+  "12271": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.3436516225337982
+      }
+    }
+  },
+  "3033": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7978296875953674
+      }
+    }
+  },
+  "3062": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8299292922019958
+      }
+    }
+  },
+  "3076": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7364891171455383
+      }
+    }
+  },
+  "12105": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5990608334541321
+      }
+    }
+  },
+  "12112": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.5332909226417542
+      }
+    }
+  },
+  "12245": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.4189607799053192
+      }
+    }
+  },
+  "12202": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.7569791078567505
+      }
+    }
+  },
+  "12299": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.7903707027435303
+      }
+    }
+  },
+  "12133": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.8010556101799011
+      }
+    }
+  },
+  "3130": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.30855533480644226
+      }
+    }
+  },
+  "179": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.879943311214447
+      }
+    }
+  },
+  "3052": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8719348311424255
+      }
+    }
+  },
+  "12211": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.47564825415611267
+      }
+    }
+  },
+  "12326": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6181589961051941
+      }
+    }
+  },
+  "3114": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9262851476669312
+      }
+    }
+  },
+  "12152": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.6217969655990601
+      }
+    }
+  },
+  "3014": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.4739512801170349
+      }
+    }
+  },
+  "12139": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.5994055867195129
+      }
+    }
+  },
+  "3005": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8161585927009583
+      }
+    }
+  },
+  "3019": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8555589318275452
+      }
+    }
+  },
+  "12177": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.45515239238739014
+      }
+    }
+  },
+  "3098": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.875788688659668
+      }
+    }
+  },
+  "3136": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9258978962898254
+      }
+    }
+  },
+  "3101": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6586894989013672
+      }
+    }
+  },
+  "3034": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6275377869606018
+      }
+    }
+  },
+  "12294": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.42782124876976013
+      }
+    }
+  },
+  "12108": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.9024630784988403
+      }
+    }
+  },
+  "3175": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6733106970787048
+      }
+    }
+  },
+  "3162": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8052579760551453
+      }
+    }
+  },
+  "37414": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.41505345702171326
+      }
+    }
+  },
+  "12117": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.5522988438606262
+      }
+    }
+  },
+  "3051": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5862751007080078
+      }
+    }
+  },
+  "12252": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.4454216957092285
+      }
+    }
+  },
+  "3091": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5744349360466003
+      }
+    }
+  },
+  "3103": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5680387616157532
+      }
+    }
+  },
+  "12200": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9149397611618042
+      }
+    }
+  },
+  "12125": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.3042786717414856
+      }
+    }
+  },
+  "3041": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5261539220809937
+      }
+    }
+  },
+  "12240": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8931559324264526
+      }
+    }
+  },
+  "3045": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.28993523120880127
+      }
+    }
+  },
+  "3030": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7156822681427002
+      }
+    }
+  },
+  "12311": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.5162771344184875
+      }
+    }
+  },
+  "12131": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.729036808013916
+      }
+    }
+  },
+  "3159": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.3422926664352417
+      }
+    }
+  },
+  "3060": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9097082614898682
+      }
+    }
+  },
+  "12319": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.49370571970939636
+      }
+    }
+  },
+  "3203": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8657398819923401
+      }
+    }
+  },
+  "3069": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5963027477264404
+      }
+    }
+  },
+  "3009": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9273039698600769
+      }
+    }
+  },
+  "2988": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7111747860908508
+      }
+    }
+  },
+  "3117": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4601122736930847
+      }
+    }
+  },
+  "12207": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.4770333766937256
+      }
+    }
+  },
+  "12106": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.21557411551475525
+      }
+    }
+  },
+  "12284": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7177487015724182
+      }
+    }
+  },
+  "3031": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7515236139297485
+      }
+    }
+  },
+  "3075": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7603375315666199
+      }
+    }
+  },
+  "12226": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.5161293148994446
+      }
+    }
+  },
+  "3042": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7865388989448547
+      }
+    }
+  },
+  "12124": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.7765072584152222
+      }
+    }
+  },
+  "12269": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.508574903011322
+      }
+    }
+  },
+  "12308": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.4098699688911438
+      }
+    }
+  },
+  "12221": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7206088900566101
+      }
+    }
+  },
+  "3164": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.39495325088500977
+      }
+    }
+  },
+  "12218": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.8674197196960449
+      }
+    }
+  },
+  "12153": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.3174545466899872
+      }
+    }
+  },
+  "2994": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.4552358388900757
+      }
+    }
+  },
+  "3090": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8404819369316101
+      }
+    }
+  },
+  "3234": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.4976871907711029
+      }
+    }
+  },
+  "3218": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6474635004997253
+      }
+    }
+  },
+  "3222": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5940166711807251
+      }
+    }
+  },
+  "12295": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.6879757046699524
+      }
+    }
+  },
+  "3188": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.551247239112854
+      }
+    }
+  },
+  "3187": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8278369903564453
+      }
+    }
+  },
+  "3201": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5548770427703857
+      }
+    }
+  },
+  "3171": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7355418801307678
+      }
+    }
+  },
+  "12289": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7096463441848755
+      }
+    }
+  },
+  "12182": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.827983558177948
+      }
+    }
+  },
+  "12156": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.50342857837677
+      }
+    }
+  },
+  "12094": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.49183833599090576
+      }
+    }
+  },
+  "3099": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.931961178779602
+      }
+    }
+  },
+  "12172": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.7773775458335876
+      }
+    }
+  },
+  "3089": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7204143404960632
+      }
+    }
+  },
+  "12253": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.9001760482788086
+      }
+    }
+  },
+  "12158": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.3322760760784149
+      }
+    }
+  },
+  "12178": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.45764413475990295
+      }
+    }
+  },
+  "12215": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.6943476796150208
+      }
+    }
+  },
+  "12270": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.532594621181488
+      }
+    }
+  },
+  "3088": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7317410707473755
+      }
+    }
+  },
+  "12288": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.5466079711914062
+      }
+    }
+  },
+  "3003": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.31809836626052856
+      }
+    }
+  },
+  "12135": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.8696002960205078
+      }
+    }
+  },
+  "12304": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.693507969379425
+      }
+    }
+  },
+  "12285": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.7928938865661621
+      }
+    }
+  },
+  "12278": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.9177466034889221
+      }
+    }
+  },
+  "3087": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8384421467781067
+      }
+    }
+  },
+  "12203": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5674951076507568
+      }
+    }
+  },
+  "3116": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7500882148742676
+      }
+    }
+  },
+  "3109": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9367571473121643
+      }
+    }
+  },
+  "3230": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9094563722610474
+      }
+    }
+  },
+  "3140": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.831622302532196
+      }
+    }
+  },
+  "3204": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.15243908762931824
+      }
+    }
+  },
+  "3213": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7452811598777771
+      }
+    }
+  },
+  "12216": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.5295749306678772
+      }
+    }
+  },
+  "12306": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.42289024591445923
+      }
+    }
+  },
+  "3160": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.930441677570343
+      }
+    }
+  },
+  "3083": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5135269165039062
+      }
+    }
+  },
+  "3161": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.7705324292182922
+      }
+    }
+  },
+  "12138": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.6387485265731812
+      }
+    }
+  },
+  "12274": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.3616856038570404
+      }
+    }
+  },
+  "3225": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7863739728927612
+      }
+    }
+  },
+  "3040": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8643618226051331
+      }
+    }
+  },
+  "12176": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.7381560802459717
+      }
+    }
+  },
+  "3198": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.559252142906189
+      }
+    }
+  },
+  "12162": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.5010880827903748
+      }
+    }
+  },
+  "3223": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8576686382293701
+      }
+    }
+  },
+  "3061": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5232299566268921
+      }
+    }
+  },
+  "12199": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.4364485740661621
+      }
+    }
+  },
+  "3006": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9410750865936279
+      }
+    }
+  },
+  "12263": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.6209158301353455
+      }
+    }
+  },
+  "12109": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Expressionism",
+        "conceptnet_concept": "conceptnet:expressionism",
+        "annotation_strength": 0.8186364769935608
+      }
+    }
+  },
+  "37413": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.39202722907066345
+      }
+    }
+  },
+  "3032": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5954667329788208
+      }
+    }
+  },
+  "12107": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5533865690231323
+      }
+    }
+  },
+  "3153": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.716943085193634
+      }
+    }
+  },
+  "12317": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.40429386496543884
+      }
+    }
+  },
+  "3131": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.7869472503662109
+      }
+    }
+  },
+  "3210": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.5890249609947205
+      }
+    }
+  },
+  "12248": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.6585314869880676
+      }
+    }
+  },
+  "12217": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8209157586097717
+      }
+    }
+  },
+  "3081": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5431659817695618
+      }
+    }
+  },
+  "12287": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Renaissance",
+        "conceptnet_concept": "conceptnet:renaissance",
+        "annotation_strength": 0.8741906881332397
+      }
+    }
+  },
+  "12132": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Romanticism",
+        "conceptnet_concept": "conceptnet:romanticism",
+        "annotation_strength": 0.7029783129692078
+      }
+    }
+  },
+  "3054": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.3549264967441559
+      }
+    }
+  },
+  "12104": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.5669887661933899
+      }
+    }
+  },
+  "3215": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8106940388679504
+      }
+    }
+  },
+  "3205": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.628147304058075
+      }
+    }
+  },
+  "3182": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5829960107803345
+      }
+    }
+  },
+  "3167": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6723995804786682
+      }
+    }
+  },
+  "3154": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.6955534219741821
+      }
+    }
+  },
+  "3137": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.5451717376708984
+      }
+    }
+  },
+  "3013": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8821784257888794
+      }
+    }
+  },
+  "3024": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.3540749251842499
+      }
+    }
+  },
+  "3165": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.23992767930030823
+      }
+    }
+  },
+  "12237": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6828662753105164
+      }
+    }
+  },
+  "3221": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.3984519839286804
+      }
+    }
+  },
+  "12142": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.3633221387863159
+      }
+    }
+  },
+  "12148": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.8706269264221191
+      }
+    }
+  },
+  "3231": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8780178427696228
+      }
+    }
+  },
+  "3186": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.44026100635528564
+      }
+    }
+  },
+  "3179": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Art Nouveau",
+        "conceptnet_concept": "conceptnet:art_nouveau",
+        "annotation_strength": 0.6048992872238159
+      }
+    }
+  },
+  "3142": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.8427550196647644
+      }
+    }
+  },
+  "12320": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Realism",
+        "conceptnet_concept": "conceptnet:realism",
+        "annotation_strength": 0.5207216739654541
+      }
+    }
+  },
+  "12155": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Post-Impressionism",
+        "conceptnet_concept": "conceptnet:post_impressionism",
+        "annotation_strength": 0.39908793568611145
+      }
+    }
+  }
+}

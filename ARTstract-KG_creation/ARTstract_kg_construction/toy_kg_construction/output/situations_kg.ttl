@@ -1,0 +1,174 @@
+@prefix ns1: <https://w3id.org/situannotate#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:ARTstract_act_2023_06_28 a ns1:ActionAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "top_one" ;
+    ns1:involvesAnnotator ns1:DunnBC22_vit-base-patch16-224-in21k_Human_Activity_Recognition ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-28"^^xsd:date ;
+    ns1:satisfies ns1:act_detection_desc .
+
+ns1:ARTstract_age_2023_06_26 a ns1:AgeAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "top_one" ;
+    ns1:involvesAnnotator ns1:nateraw_vit-age-classifier ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-26"^^xsd:date ;
+    ns1:satisfies ns1:age_detection_desc .
+
+ns1:ARTstract_as_2023_06_26 a ns1:ArtStyleAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "top_one" ;
+    ns1:involvesAnnotator ns1:oschamp_vit-artworkclassifier ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-26"^^xsd:date ;
+    ns1:satisfies ns1:as_detection_desc .
+
+ns1:ARTstract_color_2023_06_26 a ns1:ColorAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "top_five" ;
+    ns1:involvesAnnotator ns1:ColorThief ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-26"^^xsd:date ;
+    ns1:satisfies ns1:color_detection_desc .
+
+ns1:ARTstract_em_2023_06_26 a ns1:EmotionAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "top_one" ;
+    ns1:involvesAnnotator ns1:artemis_image-emotion-classifier ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-26"^^xsd:date ;
+    ns1:satisfies ns1:em_detection_desc .
+
+ns1:ARTstract_hp_2023_06_26 a ns1:HumanPresenceAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "0.5" ;
+    ns1:involvesAnnotator ns1:adhamelarabawy_fashion_human_classifier ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-26"^^xsd:date ;
+    ns1:satisfies ns1:hp_detection_desc .
+
+ns1:ARTstract_ic_2023_06_28 a ns1:ImageCaptionAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "top_one" ;
+    ns1:involvesAnnotator ns1:Salesforce_blip-image-captioning-large ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-28"^^xsd:date ;
+    ns1:satisfies ns1:ic_detection_desc .
+
+ns1:ARTstract_od_2023_06_28 a ns1:ObjectAnnotationSituation ;
+    ns1:atPlace ns1:Italy ;
+    ns1:hasDetectionThreshold "0.7" ;
+    ns1:involvesAnnotator ns1:facebook_detr-resnet-101 ;
+    ns1:involvesDataset ns1:ARTstract ;
+    ns1:onDate "2023-06-28"^^xsd:date ;
+    ns1:satisfies ns1:od_detection_desc .
+
+ns1:ColorThief a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:color-thief ;
+    ns1:pretrainedOnDataset ns1:not-applicable .
+
+ns1:DunnBC22_vit-base-patch16-224-in21k_Human_Activity_Recognition a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:visual_transformer ;
+    ns1:pretrainedOnDataset ns1:har-dataset .
+
+ns1:ResNet a ns1:ModelArchitecture .
+
+ns1:Salesforce_blip-image-captioning-large a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:visual_transformer ;
+    ns1:pretrainedOnDataset ns1:COCO-dataset .
+
+ns1:act_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Action detections are annotation situations in which annotations play the role of detected_action, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_action .
+
+ns1:adhamelarabawy_fashion_human_classifier a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:visual_transformer ;
+    ns1:pretrainedOnDataset ns1:deep-fashion-v1 .
+
+ns1:age_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Age detections are annotation situations in which annotations play the role of detected_age, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_age .
+
+ns1:artbench-10 a ns1:Dataset .
+
+ns1:artemis a ns1:Dataset .
+
+ns1:artemis_image-emotion-classifier a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:ResNet ;
+    ns1:pretrainedOnDataset ns1:artemis .
+
+ns1:as_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Art style detections are annotation situations in which annotations play the role of detected_art_style, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_art_style .
+
+ns1:color-thief a ns1:ModelArchitecture .
+
+ns1:color_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Color detections are annotation situations in which annotations play the role of detected_color, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_color .
+
+ns1:deep-fashion-v1 a ns1:Dataset .
+
+ns1:detected_action a ns1:ImageAnnotationRole .
+
+ns1:detected_age a ns1:ImageAnnotationRole .
+
+ns1:detected_art_style a ns1:ImageAnnotationRole .
+
+ns1:detected_color a ns1:ImageAnnotationRole .
+
+ns1:detected_emotion a ns1:ImageAnnotationRole .
+
+ns1:detected_human_presence a ns1:ImageAnnotationRole .
+
+ns1:detected_image_caption a ns1:ImageAnnotationRole .
+
+ns1:detected_object a ns1:ImageAnnotationRole .
+
+ns1:detection_transformer a ns1:ModelArchitecture .
+
+ns1:em_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Emotion detections are annotation situations in which annotations play the role of detected_emotion, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_emotion .
+
+ns1:facebook_detr-resnet-101 a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:detection_transformer ;
+    ns1:pretrainedOnDataset ns1:COCO-dataset .
+
+ns1:fair-face a ns1:Dataset .
+
+ns1:har-dataset a ns1:Dataset .
+
+ns1:hp_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Human presence detections are annotation situations in which annotations play the role of detected_human_presence, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_human_presence .
+
+ns1:ic_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Image caption detections are annotation situations in which annotations play the role of detected_image_caption, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_image_caption .
+
+ns1:nateraw_vit-age-classifier a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:visual_transformer ;
+    ns1:pretrainedOnDataset ns1:fair-face .
+
+ns1:not-applicable a ns1:Dataset .
+
+ns1:od_detection_desc a ns1:ImageAnnotationDescription ;
+    rdfs:comment "Object detections are annotation situations in which annotations play the role of detected_object, assigned by an Annotator according to a certain detection threshold or heuristic"^^xsd:string ;
+    ns1:defines ns1:detected_object .
+
+ns1:oschamp_vit-artworkclassifier a ns1:ArtificialAnnotator ;
+    ns1:hasModelArchitecture ns1:visual_transformer ;
+    ns1:pretrainedOnDataset ns1:artbench-10 .
+
+ns1:COCO-dataset a ns1:Dataset .
+
+ns1:visual_transformer a ns1:ModelArchitecture .
+
+ns1:ARTstract a ns1:Dataset .
+
+ns1:Italy a ns1:Country .
+

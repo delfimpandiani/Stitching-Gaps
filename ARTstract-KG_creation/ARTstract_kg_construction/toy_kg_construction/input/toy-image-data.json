@@ -1,0 +1,186 @@
+{
+    "14978": {
+        "source_dataset": "artemis",
+        "source_id": "Realism/peder-severin-kroyer/boys-bathing-1892.jpg",
+        "evoked_clusters": {
+            "41": {
+                "cluster_name": "freedom",
+                "cluster_words": [
+                    "america",
+                    "freedom",
+                    "liberty"
+                ],
+                "evocation_strength": 1,
+                "evocation_context": [
+                    "The freedom of youth, unconstrained by societal expectations, loving the sun and the surf."
+                ]
+            }
+        },
+        "as": {
+            "ARTstract_as_2023_06_26": {
+                "art_style": "Impressionism",
+                "conceptnet_concept": "conceptnet:impressionism",
+                "annotation_strength": 0.6149182915687561
+            }
+        },
+        "ic": {
+            "ARTstract_ic_2023_06_28": {
+                "image_description": "painting of children playing in the water at the beach"
+            }
+        },
+        "hp": {
+            "ARTstract_hp_2023_06_26": {
+                "human_presence": "True",
+                "lexical_presence": "Human depicted",
+                "conceptnet_concept": "conceptnet:human",
+                "annotation_strength": 0.7582577436257694
+            }
+        },
+        "age": {
+            "ARTstract_age_2023_06_26": {
+                "age_tier": "20-29",
+                "conceptnet_concept": "conceptnet:twenties",
+                "annotation_strength": 0.3349549472332001
+            }
+        },
+        "od": {
+            "ARTstract_od_2023_06_28": {
+                "detected_objects": [
+                    {
+                        "detected_object": "person",
+                        "coordinates": {
+                            "x1": 331.62,
+                            "y1": 151.01,
+                            "x2": 387.66,
+                            "y2": 297.2
+                        },
+                        "annotation_strength": 0.999
+                    },
+                    {
+                        "detected_object": "surfboard",
+                        "coordinates": {
+                            "x1": 289.4,
+                            "y1": 109.18,
+                            "x2": 303.77,
+                            "y2": 141.12
+                        },
+                        "annotation_strength": 0.962
+                    },
+                    {
+                        "detected_object": "person",
+                        "coordinates": {
+                            "x1": 361.95,
+                            "y1": 82.64,
+                            "x2": 368.98,
+                            "y2": 91.43
+                        },
+                        "annotation_strength": 0.988
+                    },
+                    {
+                        "detected_object": "person",
+                        "coordinates": {
+                            "x1": 408.5,
+                            "y1": 77.3,
+                            "x2": 422.58,
+                            "y2": 110.14
+                        },
+                        "annotation_strength": 0.996
+                    },
+                    {
+                        "detected_object": "person",
+                        "coordinates": {
+                            "x1": 272.15,
+                            "y1": 94.28,
+                            "x2": 297.27,
+                            "y2": 147.29
+                        },
+                        "annotation_strength": 0.999
+                    },
+                    {
+                        "detected_object": "person",
+                        "coordinates": {
+                            "x1": 490.27,
+                            "y1": 41.77,
+                            "x2": 495.9,
+                            "y2": 53.1
+                        },
+                        "annotation_strength": 0.92
+                    },
+                    {
+                        "detected_object": "person",
+                        "coordinates": {
+                            "x1": 14.24,
+                            "y1": 165.42,
+                            "x2": 96.52,
+                            "y2": 337.8
+                        },
+                        "annotation_strength": 1.0
+                    }
+                ]
+            }
+        },
+        "act": {
+            "ARTstract_act_2023_06_28": {
+                "action_label": "running",
+                "conceptnet_concept": "conceptnet:running",
+                "annotation_strength": 0.9970308542251587
+            }
+        },
+        "color": {
+            "ARTstract_color_2023_06_26": [
+                {
+                    "rgb": [
+                        175,
+                        187,
+                        200
+                    ],
+                    "webcolor_name": "silver",
+                    "conceptnet_concept": "conceptnet:silver"
+                },
+                {
+                    "rgb": [
+                        124,
+                        117,
+                        84
+                    ],
+                    "webcolor_name": "dimgray",
+                    "conceptnet_concept": "conceptnet:gray"
+                },
+                {
+                    "rgb": [
+                        130,
+                        133,
+                        129
+                    ],
+                    "webcolor_name": "gray",
+                    "conceptnet_concept": "conceptnet:gray"
+                },
+                {
+                    "rgb": [
+                        98,
+                        113,
+                        123
+                    ],
+                    "webcolor_name": "dimgray",
+                    "conceptnet_concept": "conceptnet:gray"
+                },
+                {
+                    "rgb": [
+                        100,
+                        100,
+                        108
+                    ],
+                    "webcolor_name": "dimgray",
+                    "conceptnet_concept": "conceptnet:gray"
+                }
+            ]
+        },
+        "em": {
+            "ARTstract_em_2023_06_26": {
+                "emotion": "contentment",
+                "conceptnet_concept": "conceptnet:contentment",
+                "annotation_strength": 0.5551347732543945
+            }
+        }
+    }
+}

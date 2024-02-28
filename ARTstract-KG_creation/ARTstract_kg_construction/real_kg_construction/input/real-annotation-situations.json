@@ -1,0 +1,98 @@
+{
+    "ARTstract_as_2023_06_26": {
+        "satisfies_description": "as_detection_desc",
+        "annotation_type": "as",
+        "annotator": "oschamp/vit-artworkclassifier",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "visual transformer",
+        "annotator_pretrained_on": "artbench-10",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_26",
+        "detection_threshold": "top one",
+        "annotated_dataset": "ARTstract"
+    },
+    "ARTstract_age_2023_06_26": {
+        "satisfies_description": "age_detection_desc",
+        "annotation_type": "age",
+        "annotator": "nateraw/vit-age-classifier",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "visual transformer",
+        "annotator_pretrained_on": "fair-face",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_26",
+        "detection_threshold": "top one",
+        "annotated_dataset": "ARTstract"
+    },
+    "ARTstract_act_2023_06_28": {
+        "satisfies_description": "act_detection_desc",
+        "annotation_type": "act",
+        "annotator": "DunnBC22/vit-base-patch16-224-in21k_Human_Activity_Recognition",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "visual transformer",
+        "annotator_pretrained_on": "har-dataset",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_28",
+        "detection_threshold": "top one",
+        "annotated_dataset": "ARTstract"
+    },
+    "ARTstract_color_2023_06_26": {
+        "satisfies_description": "color_detection_desc",
+        "annotation_type": "color",
+        "annotator": "ColorThief",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "color-thief",
+        "annotator_pretrained_on": "not-applicable",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_26",
+        "detection_threshold": "top five",
+        "annotated_dataset": "ARTstract"
+    },
+    "ARTstract_em_2023_06_26": {
+        "satisfies_description": "em_detection_desc",
+        "annotation_type": "em",
+        "annotator": "artemis_image-emotion-classifier",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "ResNet",
+        "annotator_pretrained_on": "artemis",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_26",
+        "detection_threshold": "top one",
+        "annotated_dataset": "ARTstract"
+    },
+    "ARTstract_hp_2023_06_26": {
+        "satisfies_description": "hp_detection_desc",
+        "annotation_type": "hp",
+        "annotator": "adhamelarabawy/fashion_human_classifier",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "visual transformer",
+        "annotator_pretrained_on": "deep-fashion-v1",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_26",
+        "detection_threshold": "0.5",
+        "annotated_dataset": "ARTstract"
+    },
+    "ARTstract_ic_2023_06_28": {
+        "satisfies_description": "ic_detection_desc",
+        "annotation_type": "ic",
+        "annotator": "Salesforce/blip-image-captioning-large",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "visual transformer",
+        "annotator_pretrained_on": "COCO-dataset",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_28",
+        "detection_threshold": "top one",
+        "annotated_dataset": "ARTstract"
+    },
+    "ARTstract_od_2023_06_28": {
+        "satisfies_description": "od_detection_desc",
+        "annotation_type": "od",
+        "annotator": "facebook/detr-resnet-101",
+        "annotator_type": "artificial",
+        "annotator_model_arch": "detection transformer",
+        "annotator_pretrained_on": "COCO-dataset",
+        "annotation_place": "Italy",
+        "annotation_time": "2023_06_28",
+        "detection_threshold": "0.7",
+        "annotated_dataset": "ARTstract"
+    }
+}

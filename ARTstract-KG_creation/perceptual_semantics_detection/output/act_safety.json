@@ -1,0 +1,3206 @@
+{
+  "12150": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9530726671218872
+      }
+    }
+  },
+  "12266": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9045777320861816
+      }
+    }
+  },
+  "3127": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "hugging",
+        "conceptnet_concept": "conceptnet:hugging",
+        "annotation_strength": 0.8635942935943604
+      }
+    }
+  },
+  "3149": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.26963573694229126
+      }
+    }
+  },
+  "3124": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.20859616994857788
+      }
+    }
+  },
+  "3195": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "hugging",
+        "conceptnet_concept": "conceptnet:hugging",
+        "annotation_strength": 0.9977924823760986
+      }
+    }
+  },
+  "3185": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.2700110971927643
+      }
+    }
+  },
+  "12283": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.6469433307647705
+      }
+    }
+  },
+  "3093": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.9126957058906555
+      }
+    }
+  },
+  "3172": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.42903801798820496
+      }
+    }
+  },
+  "3026": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9884258508682251
+      }
+    }
+  },
+  "3046": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9747656583786011
+      }
+    }
+  },
+  "12328": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.5322494506835938
+      }
+    }
+  },
+  "3214": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.24843387305736542
+      }
+    }
+  },
+  "3207": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.9911109209060669
+      }
+    }
+  },
+  "12292": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.90387362241745
+      }
+    }
+  },
+  "12194": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.74394291639328
+      }
+    }
+  },
+  "12115": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.965769350528717
+      }
+    }
+  },
+  "12181": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.7716893553733826
+      }
+    }
+  },
+  "12279": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.4496459662914276
+      }
+    }
+  },
+  "12305": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.32231155037879944
+      }
+    }
+  },
+  "12246": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.8629027605056763
+      }
+    }
+  },
+  "12193": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9696553945541382
+      }
+    }
+  },
+  "3170": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9967851638793945
+      }
+    }
+  },
+  "3197": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.2448352426290512
+      }
+    }
+  },
+  "3155": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.7772204279899597
+      }
+    }
+  },
+  "12230": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "eating",
+        "conceptnet_concept": "conceptnet:eating",
+        "annotation_strength": 0.949800968170166
+      }
+    }
+  },
+  "3067": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.8292146325111389
+      }
+    }
+  },
+  "3183": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.28475141525268555
+      }
+    }
+  },
+  "12209": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9240637421607971
+      }
+    }
+  },
+  "12229": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.994141161441803
+      }
+    }
+  },
+  "12330": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.9865269064903259
+      }
+    }
+  },
+  "3151": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6548877954483032
+      }
+    }
+  },
+  "3073": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.24320709705352783
+      }
+    }
+  },
+  "12265": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.3637373149394989
+      }
+    }
+  },
+  "12323": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9929991960525513
+      }
+    }
+  },
+  "12264": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.986625075340271
+      }
+    }
+  },
+  "12281": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.331538587808609
+      }
+    }
+  },
+  "3015": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.22221925854682922
+      }
+    }
+  },
+  "12293": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.15917760133743286
+      }
+    }
+  },
+  "2989": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.8719537258148193
+      }
+    }
+  },
+  "3121": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.9230572581291199
+      }
+    }
+  },
+  "3184": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.4281326234340668
+      }
+    }
+  },
+  "3189": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.29997119307518005
+      }
+    }
+  },
+  "12261": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9778542518615723
+      }
+    }
+  },
+  "12198": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9836767911911011
+      }
+    }
+  },
+  "12225": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.8953108787536621
+      }
+    }
+  },
+  "3018": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.6489335298538208
+      }
+    }
+  },
+  "3194": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.6908588409423828
+      }
+    }
+  },
+  "3177": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.31014305353164673
+      }
+    }
+  },
+  "12116": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.8999605774879456
+      }
+    }
+  },
+  "12220": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.48551061749458313
+      }
+    }
+  },
+  "12127": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.4606766104698181
+      }
+    }
+  },
+  "3107": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.5726231932640076
+      }
+    }
+  },
+  "3212": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.9698241949081421
+      }
+    }
+  },
+  "3092": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.37078627943992615
+      }
+    }
+  },
+  "12165": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.5970122814178467
+      }
+    }
+  },
+  "12179": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.4719097316265106
+      }
+    }
+  },
+  "12100": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9868751168251038
+      }
+    }
+  },
+  "12231": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.69269198179245
+      }
+    }
+  },
+  "12249": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.4284573197364807
+      }
+    }
+  },
+  "3016": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.9982522130012512
+      }
+    }
+  },
+  "3108": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.22272337973117828
+      }
+    }
+  },
+  "180": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9969218373298645
+      }
+    }
+  },
+  "3104": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.6054354310035706
+      }
+    }
+  },
+  "3011": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.9319635033607483
+      }
+    }
+  },
+  "3050": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.9678953886032104
+      }
+    }
+  },
+  "3129": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.992219865322113
+      }
+    }
+  },
+  "3219": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.9972483515739441
+      }
+    }
+  },
+  "12325": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.842837393283844
+      }
+    }
+  },
+  "12099": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.41173580288887024
+      }
+    }
+  },
+  "12214": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.7782551646232605
+      }
+    }
+  },
+  "12312": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9501643776893616
+      }
+    }
+  },
+  "3128": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.9930358529090881
+      }
+    }
+  },
+  "12321": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.643811047077179
+      }
+    }
+  },
+  "3145": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9940434098243713
+      }
+    }
+  },
+  "3058": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.48350512981414795
+      }
+    }
+  },
+  "3180": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.34190601110458374
+      }
+    }
+  },
+  "3078": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.23771680891513824
+      }
+    }
+  },
+  "3007": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.26741915941238403
+      }
+    }
+  },
+  "3106": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.4933474659919739
+      }
+    }
+  },
+  "37416": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.15364931523799896
+      }
+    }
+  },
+  "12235": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.40397557616233826
+      }
+    }
+  },
+  "12205": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.3418712317943573
+      }
+    }
+  },
+  "3206": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9862012267112732
+      }
+    }
+  },
+  "3200": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.9911230802536011
+      }
+    }
+  },
+  "12259": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9525715708732605
+      }
+    }
+  },
+  "3022": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.6191885471343994
+      }
+    }
+  },
+  "12167": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6698479056358337
+      }
+    }
+  },
+  "3135": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.8601943254470825
+      }
+    }
+  },
+  "3115": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9338817596435547
+      }
+    }
+  },
+  "12144": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.1778419464826584
+      }
+    }
+  },
+  "12169": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.16565296053886414
+      }
+    }
+  },
+  "3012": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.967659592628479
+      }
+    }
+  },
+  "3064": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.998006284236908
+      }
+    }
+  },
+  "3021": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.17267899215221405
+      }
+    }
+  },
+  "12267": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9946438074111938
+      }
+    }
+  },
+  "12307": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.4382309317588806
+      }
+    }
+  },
+  "3163": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.5625752806663513
+      }
+    }
+  },
+  "3025": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9922723770141602
+      }
+    }
+  },
+  "12122": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.31741079688072205
+      }
+    }
+  },
+  "12149": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.3828341066837311
+      }
+    }
+  },
+  "12333": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.2947780191898346
+      }
+    }
+  },
+  "12136": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.6510471105575562
+      }
+    }
+  },
+  "3084": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.27061623334884644
+      }
+    }
+  },
+  "12222": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.4045109152793884
+      }
+    }
+  },
+  "12256": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.5392459630966187
+      }
+    }
+  },
+  "3077": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.4182308316230774
+      }
+    }
+  },
+  "2992": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.9602859616279602
+      }
+    }
+  },
+  "12241": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.9949571490287781
+      }
+    }
+  },
+  "12291": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.6737310290336609
+      }
+    }
+  },
+  "3228": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.23462752997875214
+      }
+    }
+  },
+  "3043": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9556987881660461
+      }
+    }
+  },
+  "3113": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.8176673650741577
+      }
+    }
+  },
+  "12301": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.2741909921169281
+      }
+    }
+  },
+  "3166": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.33603543043136597
+      }
+    }
+  },
+  "12296": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9100033044815063
+      }
+    }
+  },
+  "12113": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.5217559337615967
+      }
+    }
+  },
+  "3085": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.22043460607528687
+      }
+    }
+  },
+  "2995": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.23368236422538757
+      }
+    }
+  },
+  "12166": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9365712404251099
+      }
+    }
+  },
+  "2996": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.9507148861885071
+      }
+    }
+  },
+  "12234": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9453088045120239
+      }
+    }
+  },
+  "3038": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.6399900913238525
+      }
+    }
+  },
+  "12137": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.3963955342769623
+      }
+    }
+  },
+  "3053": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.9637020230293274
+      }
+    }
+  },
+  "3082": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.6023712754249573
+      }
+    }
+  },
+  "3181": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.2202625423669815
+      }
+    }
+  },
+  "3152": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.4812415540218353
+      }
+    }
+  },
+  "3119": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.31065642833709717
+      }
+    }
+  },
+  "2997": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.16357965767383575
+      }
+    }
+  },
+  "12227": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9938061237335205
+      }
+    }
+  },
+  "3105": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.21023371815681458
+      }
+    }
+  },
+  "12145": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9927936792373657
+      }
+    }
+  },
+  "12184": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.1892121136188507
+      }
+    }
+  },
+  "3232": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6933718323707581
+      }
+    }
+  },
+  "3143": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.9828183054924011
+      }
+    }
+  },
+  "3148": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.6738458871841431
+      }
+    }
+  },
+  "12140": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.5946015119552612
+      }
+    }
+  },
+  "12134": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6431402564048767
+      }
+    }
+  },
+  "12154": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.39032867550849915
+      }
+    }
+  },
+  "12121": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.3087601363658905
+      }
+    }
+  },
+  "12212": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6139093041419983
+      }
+    }
+  },
+  "37415": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.32204386591911316
+      }
+    }
+  },
+  "12192": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.9977595806121826
+      }
+    }
+  },
+  "12160": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.2950561046600342
+      }
+    }
+  },
+  "12188": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.8246570825576782
+      }
+    }
+  },
+  "3193": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.7081141471862793
+      }
+    }
+  },
+  "12250": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9922950267791748
+      }
+    }
+  },
+  "3157": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.9512550234794617
+      }
+    }
+  },
+  "3063": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.8882332444190979
+      }
+    }
+  },
+  "12171": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.573779821395874
+      }
+    }
+  },
+  "3055": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "eating",
+        "conceptnet_concept": "conceptnet:eating",
+        "annotation_strength": 0.3705112040042877
+      }
+    }
+  },
+  "12180": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.7338525652885437
+      }
+    }
+  },
+  "12141": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.6135712265968323
+      }
+    }
+  },
+  "3173": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.24882566928863525
+      }
+    }
+  },
+  "3192": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.8295300006866455
+      }
+    }
+  },
+  "12239": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9924690127372742
+      }
+    }
+  },
+  "3059": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.8280601501464844
+      }
+    }
+  },
+  "3125": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.532056450843811
+      }
+    }
+  },
+  "12290": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "eating",
+        "conceptnet_concept": "conceptnet:eating",
+        "annotation_strength": 0.7183180451393127
+      }
+    }
+  },
+  "3074": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.5550547242164612
+      }
+    }
+  },
+  "12243": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.7261350154876709
+      }
+    }
+  },
+  "37412": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.2809581756591797
+      }
+    }
+  },
+  "12236": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.538081705570221
+      }
+    }
+  },
+  "12282": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.41305461525917053
+      }
+    }
+  },
+  "12223": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.4113212823867798
+      }
+    }
+  },
+  "12272": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.6830134987831116
+      }
+    }
+  },
+  "3191": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.32796743512153625
+      }
+    }
+  },
+  "12174": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.33853092789649963
+      }
+    }
+  },
+  "3017": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "eating",
+        "conceptnet_concept": "conceptnet:eating",
+        "annotation_strength": 0.9972564578056335
+      }
+    }
+  },
+  "12164": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.7702733278274536
+      }
+    }
+  },
+  "12251": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9694826006889343
+      }
+    }
+  },
+  "12206": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.8084999918937683
+      }
+    }
+  },
+  "12123": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.3216743469238281
+      }
+    }
+  },
+  "12130": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.976186990737915
+      }
+    }
+  },
+  "3049": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9532853364944458
+      }
+    }
+  },
+  "2991": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.6888792514801025
+      }
+    }
+  },
+  "12327": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.36612391471862793
+      }
+    }
+  },
+  "12163": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9825085401535034
+      }
+    }
+  },
+  "12318": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9802809357643127
+      }
+    }
+  },
+  "3039": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.2943156957626343
+      }
+    }
+  },
+  "12128": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9790046215057373
+      }
+    }
+  },
+  "12297": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9885591864585876
+      }
+    }
+  },
+  "3126": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.9185556769371033
+      }
+    }
+  },
+  "12298": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9963829517364502
+      }
+    }
+  },
+  "3066": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.44932571053504944
+      }
+    }
+  },
+  "12195": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.4772774279117584
+      }
+    }
+  },
+  "3056": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.39056041836738586
+      }
+    }
+  },
+  "3097": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.2758181393146515
+      }
+    }
+  },
+  "12175": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.38184764981269836
+      }
+    }
+  },
+  "3141": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9291580319404602
+      }
+    }
+  },
+  "37417": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.821330189704895
+      }
+    }
+  },
+  "3023": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.27278026938438416
+      }
+    }
+  },
+  "3139": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.41620728373527527
+      }
+    }
+  },
+  "12233": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.18746724724769592
+      }
+    }
+  },
+  "12110": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.8486690521240234
+      }
+    }
+  },
+  "12159": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.6156173944473267
+      }
+    }
+  },
+  "3035": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.2731165885925293
+      }
+    }
+  },
+  "12168": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.8771904110908508
+      }
+    }
+  },
+  "3220": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.9878414273262024
+      }
+    }
+  },
+  "12277": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.991491973400116
+      }
+    }
+  },
+  "12271": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9961591958999634
+      }
+    }
+  },
+  "3033": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.3298290967941284
+      }
+    }
+  },
+  "3062": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9969149827957153
+      }
+    }
+  },
+  "3076": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6408904194831848
+      }
+    }
+  },
+  "12105": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.3884221315383911
+      }
+    }
+  },
+  "12112": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.9455341696739197
+      }
+    }
+  },
+  "12245": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.21860620379447937
+      }
+    }
+  },
+  "12202": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9908458590507507
+      }
+    }
+  },
+  "12299": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.3756691813468933
+      }
+    }
+  },
+  "12133": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.3564179837703705
+      }
+    }
+  },
+  "3130": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.40625226497650146
+      }
+    }
+  },
+  "179": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9930650591850281
+      }
+    }
+  },
+  "3052": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.3207513093948364
+      }
+    }
+  },
+  "12211": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.31900373101234436
+      }
+    }
+  },
+  "12326": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "hugging",
+        "conceptnet_concept": "conceptnet:hugging",
+        "annotation_strength": 0.9720377326011658
+      }
+    }
+  },
+  "3114": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.27803662419319153
+      }
+    }
+  },
+  "12152": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.4482997953891754
+      }
+    }
+  },
+  "3014": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.5482065081596375
+      }
+    }
+  },
+  "12139": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.33676230907440186
+      }
+    }
+  },
+  "3005": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.4008438289165497
+      }
+    }
+  },
+  "3019": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9224447011947632
+      }
+    }
+  },
+  "12177": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.24615193903446198
+      }
+    }
+  },
+  "3098": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.6029250025749207
+      }
+    }
+  },
+  "3136": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.29951950907707214
+      }
+    }
+  },
+  "3101": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.388725221157074
+      }
+    }
+  },
+  "3034": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.7800353169441223
+      }
+    }
+  },
+  "12294": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.8620626330375671
+      }
+    }
+  },
+  "12108": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.5019407272338867
+      }
+    }
+  },
+  "3175": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.5374472141265869
+      }
+    }
+  },
+  "3162": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.5421770811080933
+      }
+    }
+  },
+  "37414": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.31306731700897217
+      }
+    }
+  },
+  "12117": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.630238950252533
+      }
+    }
+  },
+  "3051": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.4685975909233093
+      }
+    }
+  },
+  "12252": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "hugging",
+        "conceptnet_concept": "conceptnet:hugging",
+        "annotation_strength": 0.9926119446754456
+      }
+    }
+  },
+  "3091": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.5007611513137817
+      }
+    }
+  },
+  "3103": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9750064015388489
+      }
+    }
+  },
+  "12200": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.27580487728118896
+      }
+    }
+  },
+  "12125": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.9586545825004578
+      }
+    }
+  },
+  "3041": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.7975803017616272
+      }
+    }
+  },
+  "12240": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.2920251786708832
+      }
+    }
+  },
+  "3045": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.5254541635513306
+      }
+    }
+  },
+  "3030": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.876554012298584
+      }
+    }
+  },
+  "12311": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.22173678874969482
+      }
+    }
+  },
+  "12131": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.6290693879127502
+      }
+    }
+  },
+  "3159": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.809112548828125
+      }
+    }
+  },
+  "3060": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9926958084106445
+      }
+    }
+  },
+  "12319": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.17482177913188934
+      }
+    }
+  },
+  "3203": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.33316636085510254
+      }
+    }
+  },
+  "3069": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.7104005813598633
+      }
+    }
+  },
+  "3009": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.8179531097412109
+      }
+    }
+  },
+  "2988": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.49007758498191833
+      }
+    }
+  },
+  "3117": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.9856777787208557
+      }
+    }
+  },
+  "12207": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.8921419978141785
+      }
+    }
+  },
+  "12106": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.8541058301925659
+      }
+    }
+  },
+  "12284": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9888366460800171
+      }
+    }
+  },
+  "3031": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.42830201983451843
+      }
+    }
+  },
+  "3075": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.9831733703613281
+      }
+    }
+  },
+  "12226": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.27619802951812744
+      }
+    }
+  },
+  "3042": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.9947754144668579
+      }
+    }
+  },
+  "12124": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.8564385175704956
+      }
+    }
+  },
+  "12269": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.5586617588996887
+      }
+    }
+  },
+  "12308": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.4526594877243042
+      }
+    }
+  },
+  "12221": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.4242829978466034
+      }
+    }
+  },
+  "3164": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.9653199315071106
+      }
+    }
+  },
+  "12218": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9706576466560364
+      }
+    }
+  },
+  "12153": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9092493653297424
+      }
+    }
+  },
+  "2994": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.4381310045719147
+      }
+    }
+  },
+  "3090": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.9031885266304016
+      }
+    }
+  },
+  "3234": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.23798461258411407
+      }
+    }
+  },
+  "3218": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.5678261518478394
+      }
+    }
+  },
+  "3222": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.98902428150177
+      }
+    }
+  },
+  "12295": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9801419973373413
+      }
+    }
+  },
+  "3188": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.7306346297264099
+      }
+    }
+  },
+  "3187": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.6226656436920166
+      }
+    }
+  },
+  "3201": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.5674988627433777
+      }
+    }
+  },
+  "3171": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.5958442091941833
+      }
+    }
+  },
+  "12289": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.8901516795158386
+      }
+    }
+  },
+  "12182": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9813469648361206
+      }
+    }
+  },
+  "12156": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.2741844356060028
+      }
+    }
+  },
+  "12094": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.4645538032054901
+      }
+    }
+  },
+  "3099": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.5927668809890747
+      }
+    }
+  },
+  "12172": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.38777536153793335
+      }
+    }
+  },
+  "3089": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.709810197353363
+      }
+    }
+  },
+  "12253": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9962360262870789
+      }
+    }
+  },
+  "12158": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9284301996231079
+      }
+    }
+  },
+  "12178": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9941859245300293
+      }
+    }
+  },
+  "12215": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.49278900027275085
+      }
+    }
+  },
+  "12270": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.41671842336654663
+      }
+    }
+  },
+  "3088": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "calling",
+        "conceptnet_concept": "conceptnet:calling",
+        "annotation_strength": 0.4154801666736603
+      }
+    }
+  },
+  "12288": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.9912934899330139
+      }
+    }
+  },
+  "3003": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.9878736138343811
+      }
+    }
+  },
+  "12135": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9949147701263428
+      }
+    }
+  },
+  "12304": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.2762922942638397
+      }
+    }
+  },
+  "12285": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9384530782699585
+      }
+    }
+  },
+  "12278": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9953486323356628
+      }
+    }
+  },
+  "3087": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.42333143949508667
+      }
+    }
+  },
+  "12203": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.3048489987850189
+      }
+    }
+  },
+  "3116": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.4698212146759033
+      }
+    }
+  },
+  "3109": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.9623121619224548
+      }
+    }
+  },
+  "3230": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.25175487995147705
+      }
+    }
+  },
+  "3140": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.4326433837413788
+      }
+    }
+  },
+  "3204": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9490045309066772
+      }
+    }
+  },
+  "3213": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.8913787603378296
+      }
+    }
+  },
+  "12216": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.6920428276062012
+      }
+    }
+  },
+  "12306": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.24155700206756592
+      }
+    }
+  },
+  "3160": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.6243705749511719
+      }
+    }
+  },
+  "3083": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.9730043411254883
+      }
+    }
+  },
+  "3161": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.3098801374435425
+      }
+    }
+  },
+  "12138": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.5394440293312073
+      }
+    }
+  },
+  "12274": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.9127216339111328
+      }
+    }
+  },
+  "3225": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "clapping",
+        "conceptnet_concept": "conceptnet:clapping",
+        "annotation_strength": 0.2650890052318573
+      }
+    }
+  },
+  "3040": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.2872312366962433
+      }
+    }
+  },
+  "12176": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9284467101097107
+      }
+    }
+  },
+  "3198": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6038068532943726
+      }
+    }
+  },
+  "12162": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.3521009385585785
+      }
+    }
+  },
+  "3223": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.4092558026313782
+      }
+    }
+  },
+  "3061": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.9896450042724609
+      }
+    }
+  },
+  "12199": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.6142972707748413
+      }
+    }
+  },
+  "3006": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.3215998709201813
+      }
+    }
+  },
+  "12263": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.39647144079208374
+      }
+    }
+  },
+  "12109": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9909862279891968
+      }
+    }
+  },
+  "37413": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.21326620876789093
+      }
+    }
+  },
+  "3032": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.8231945037841797
+      }
+    }
+  },
+  "12107": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.4907768964767456
+      }
+    }
+  },
+  "3153": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9955881834030151
+      }
+    }
+  },
+  "12317": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.17577922344207764
+      }
+    }
+  },
+  "3131": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.993216335773468
+      }
+    }
+  },
+  "3210": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.8519514799118042
+      }
+    }
+  },
+  "12248": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.9015784859657288
+      }
+    }
+  },
+  "12217": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.37911665439605713
+      }
+    }
+  },
+  "3081": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "using_laptop",
+        "conceptnet_concept": "conceptnet:laptop",
+        "annotation_strength": 0.5109390616416931
+      }
+    }
+  },
+  "12287": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.968891441822052
+      }
+    }
+  },
+  "12132": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.27622687816619873
+      }
+    }
+  },
+  "3054": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.5620506405830383
+      }
+    }
+  },
+  "12104": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.26760411262512207
+      }
+    }
+  },
+  "3215": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.9703803062438965
+      }
+    }
+  },
+  "3205": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "texting",
+        "conceptnet_concept": "conceptnet:texting",
+        "annotation_strength": 0.7362915277481079
+      }
+    }
+  },
+  "3182": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.6971200704574585
+      }
+    }
+  },
+  "3167": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.475027859210968
+      }
+    }
+  },
+  "3154": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "fighting",
+        "conceptnet_concept": "conceptnet:fighting",
+        "annotation_strength": 0.2717845141887665
+      }
+    }
+  },
+  "3137": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.3292815387248993
+      }
+    }
+  },
+  "3013": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.984410285949707
+      }
+    }
+  },
+  "3024": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "drinking",
+        "conceptnet_concept": "conceptnet:drinking",
+        "annotation_strength": 0.2810209095478058
+      }
+    }
+  },
+  "3165": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.40756964683532715
+      }
+    }
+  },
+  "12237": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "dancing",
+        "conceptnet_concept": "conceptnet:dancing",
+        "annotation_strength": 0.8556522130966187
+      }
+    }
+  },
+  "3221": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sleeping",
+        "conceptnet_concept": "conceptnet:sleeping",
+        "annotation_strength": 0.9904131293296814
+      }
+    }
+  },
+  "12142": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.6658532023429871
+      }
+    }
+  },
+  "12148": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.7917121052742004
+      }
+    }
+  },
+  "3231": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "cycling",
+        "conceptnet_concept": "conceptnet:cycling",
+        "annotation_strength": 0.9546657800674438
+      }
+    }
+  },
+  "3186": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "listening_to_music",
+        "conceptnet_concept": "conceptnet:listening_to_music",
+        "annotation_strength": 0.9665421843528748
+      }
+    }
+  },
+  "3179": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "laughing",
+        "conceptnet_concept": "conceptnet:laughing",
+        "annotation_strength": 0.9957977533340454
+      }
+    }
+  },
+  "3142": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.2610076367855072
+      }
+    }
+  },
+  "12320": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "sitting",
+        "conceptnet_concept": "conceptnet:sitting",
+        "annotation_strength": 0.3745168149471283
+      }
+    }
+  },
+  "12155": {
+    "act": {
+      "ARTstract_act_2023_06_28": {
+        "action_label": "running",
+        "conceptnet_concept": "conceptnet:running",
+        "annotation_strength": 0.17700597643852234
+      }
+    }
+  }
+}

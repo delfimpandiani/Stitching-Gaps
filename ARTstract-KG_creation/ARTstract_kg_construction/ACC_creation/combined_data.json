@@ -1,0 +1,481 @@
+{
+    "danger": {
+        "top_relevant_art_styles_by_concept": [
+            "Art Nouveau",
+            "Surrealism",
+            "Expressionism",
+            "Impressionism"
+        ],
+        "top_relevant_ages_by_concept": [
+            "20-29",
+            "30-39",
+            "40-49",
+            "3-9",
+            "10-19"
+        ],
+        "top_relevant_colors_by_concept": [
+            "turquoise",
+            "deepskyblue",
+            "darkblue",
+            "hotpink",
+            "limegreen",
+            "tomato",
+            "honeydew",
+            "lightskyblue",
+            "darkorange",
+            "darkcyan",
+            "moccasin",
+            "lemonchiffon",
+            "orange",
+            "orangered",
+            "gold"
+        ],
+        "top_relevant_actions_by_concept": [
+            "calling",
+            "cycling",
+            "drinking",
+            "fighting",
+            "laughing",
+            "sleeping",
+            "texting"
+        ],
+        "top_relevant_caption_words_by_concept": [
+            "attacked",
+            "sphere",
+            "adjusting",
+            "warning",
+            "flip",
+            "lime",
+            "casino",
+            "onto",
+            "reality",
+            "climate",
+            "change",
+            "tar",
+            "cork",
+            "bruised",
+            "goggles"
+        ],
+        "top_relevant_objects_by_concept": [
+            "car",
+            "boat",
+            "hair drier",
+            "bus",
+            "fork",
+            "toothbrush",
+            "bear",
+            "baseball bat",
+            "toilet",
+            "truck",
+            "sink",
+            "stop sign",
+            "scissors",
+            "snowboard",
+            "traffic light"
+        ],
+        "top_relevant_emotions_by_concept": [
+            "contentment",
+            "fear",
+            "amusement",
+            "awe",
+            "something else"
+        ]
+    },
+    "death": {
+        "top_relevant_art_styles_by_concept": [
+            "Art Nouveau",
+            "Expressionism",
+            "Renaissance",
+            "Romanticism"
+        ],
+        "top_relevant_ages_by_concept": [
+            "20-29",
+            "30-39",
+            "40-49",
+            "10-19",
+            "60-69"
+        ],
+        "top_relevant_colors_by_concept": [
+            "yellow",
+            "lightyellow",
+            "green",
+            "red",
+            "peachpuff",
+            "lightsalmon",
+            "salmon",
+            "lightcoral",
+            "maroon",
+            "paleturquoise",
+            "snow"
+        ],
+        "top_relevant_actions_by_concept": [
+            "dancing",
+            "fighting",
+            "hugging",
+            "sleeping"
+        ],
+        "top_relevant_caption_words_by_concept": [
+            "tapestry",
+            "zombie",
+            "forehead",
+            "airport",
+            "standard",
+            "quality",
+            "accident",
+            "mourning",
+            "hangover",
+            "device",
+            "stitch",
+            "piggy",
+            "sandal",
+            "splattered",
+            "scyther"
+        ],
+        "top_relevant_objects_by_concept": [
+            "dog",
+            "sheep",
+            "microwave",
+            "parking meter",
+            "refrigerator",
+            "skis",
+            "giraffe",
+            "mouse",
+            "tv",
+            "zebra",
+            "elephant"
+        ],
+        "top_relevant_emotions_by_concept": [
+            "contentment",
+            "fear",
+            "awe",
+            "sadness",
+            "something else"
+        ]
+    },
+    "power": {
+        "top_relevant_art_styles_by_concept": [
+            "Art Nouveau",
+            "Renaissance",
+            "Expressionism",
+            "Romanticism"
+        ],
+        "top_relevant_ages_by_concept": [
+            "20-29",
+            "30-39",
+            "40-49",
+            "60-69",
+            "50-59"
+        ],
+        "top_relevant_colors_by_concept": [
+            "lawngreen",
+            "lavenderblush",
+            "navy",
+            "forestgreen",
+            "dodgerblue",
+            "darkgreen",
+            "mediumseagreen",
+            "seashell"
+        ],
+        "top_relevant_actions_by_concept": [
+            "dancing",
+            "drinking",
+            "laughing",
+            "sitting"
+        ],
+        "top_relevant_caption_words_by_concept": [
+            "jewelry",
+            "naval",
+            "courtroom",
+            "frida",
+            "de",
+            "fr",
+            "speech",
+            "super",
+            "delicious",
+            "release",
+            "mother",
+            "triplet",
+            "q'written",
+            "archery",
+            "3"
+        ],
+        "top_relevant_objects_by_concept": [
+            "bottle",
+            "keyboard",
+            "wine glass",
+            "oven",
+            "frisbee",
+            "airplane",
+            "remote",
+            "laptop",
+            "sports ball"
+        ],
+        "top_relevant_emotions_by_concept": [
+            "contentment",
+            "awe",
+            "amusement",
+            "fear",
+            "sadness"
+        ]
+    },
+    "safety": {
+        "top_relevant_art_styles_by_concept": [
+            "Art Nouveau",
+            "Surrealism",
+            "Romanticism",
+            "Post-Impressionism"
+        ],
+        "top_relevant_ages_by_concept": [
+            "20-29",
+            "30-39",
+            "40-49",
+            "0-2",
+            "10-19"
+        ],
+        "top_relevant_colors_by_concept": [
+            "violet",
+            "mediumslateblue",
+            "darkturquoise",
+            "lightgoldenrodyellow",
+            "mistyrose",
+            "darkred",
+            "powderblue",
+            "floralwhite",
+            "pink"
+        ],
+        "top_relevant_actions_by_concept": [
+            "calling",
+            "clapping",
+            "cycling",
+            "eating",
+            "hugging",
+            "laughing",
+            "listening_to_music",
+            "running",
+            "sitting",
+            "texting",
+            "using_laptop"
+        ],
+        "top_relevant_caption_words_by_concept": [
+            "preparing",
+            "wrap",
+            "shift",
+            "volvo",
+            "oakley",
+            "lens",
+            "northern",
+            "every",
+            "month",
+            "way",
+            "cheerleader",
+            "dive",
+            "fashioned",
+            "scuba",
+            "halloween"
+        ],
+        "top_relevant_objects_by_concept": [
+            "cell phone",
+            "motorcycle",
+            "skateboard",
+            "bicycle"
+        ],
+        "top_relevant_emotions_by_concept": [
+            "contentment",
+            "amusement",
+            "awe",
+            "something else",
+            "fear"
+        ]
+    },
+    "fitness": {
+        "top_relevant_art_styles_by_concept": [
+            "Art Nouveau",
+            "Expressionism",
+            "Impressionism",
+            "Surrealism"
+        ],
+        "top_relevant_ages_by_concept": [
+            "20-29",
+            "30-39",
+            "40-49",
+            "10-19",
+            "3-9"
+        ],
+        "top_relevant_colors_by_concept": [
+            "purple",
+            "orchid",
+            "plum",
+            "cornsilk",
+            "mediumvioletred",
+            "mediumturquoise"
+        ],
+        "top_relevant_actions_by_concept": [
+            "dancing",
+            "eating",
+            "fighting",
+            "listening_to_music",
+            "running",
+            "using_laptop"
+        ],
+        "top_relevant_caption_words_by_concept": [
+            "run",
+            "stretch",
+            "condom",
+            "eva",
+            "longoria",
+            "tandem",
+            "topped",
+            "french",
+            "nutrition",
+            "une",
+            "vision",
+            "d'espace",
+            "et",
+            "d'avenir",
+            "poured"
+        ],
+        "top_relevant_objects_by_concept": [
+            "cake",
+            "surfboard",
+            "kite",
+            "sandwich",
+            "tennis racket",
+            "backpack"
+        ],
+        "top_relevant_emotions_by_concept": [
+            "contentment",
+            "amusement",
+            "awe",
+            "something else",
+            "fear"
+        ]
+    },
+    "freedom": {
+        "top_relevant_art_styles_by_concept": [
+            "Art Nouveau",
+            "Surrealism",
+            "Expressionism",
+            "Romanticism"
+        ],
+        "top_relevant_ages_by_concept": [
+            "20-29",
+            "30-39",
+            "40-49",
+            "10-19",
+            "50-59"
+        ],
+        "top_relevant_colors_by_concept": [
+            "lightcyan",
+            "crimson",
+            "lightseagreen",
+            "royalblue"
+        ],
+        "top_relevant_actions_by_concept": [
+            "calling",
+            "clapping",
+            "cycling",
+            "drinking",
+            "eating",
+            "running",
+            "texting",
+            "using_laptop"
+        ],
+        "top_relevant_caption_words_by_concept": [
+            "liberty",
+            "larcency",
+            "lac",
+            "home",
+            "loan",
+            "carved",
+            "political",
+            "filum",
+            "likely",
+            "murdered",
+            "declaration",
+            "independence",
+            "put",
+            "porsche",
+            "trailer"
+        ],
+        "top_relevant_objects_by_concept": [
+            "bird",
+            "hot dog",
+            "carrot",
+            "pizza",
+            "spoon",
+            "banana"
+        ],
+        "top_relevant_emotions_by_concept": [
+            "contentment",
+            "amusement",
+            "something else",
+            "awe",
+            "fear"
+        ]
+    },
+    "comfort": {
+        "top_relevant_art_styles_by_concept": [
+            "Impressionism",
+            "Art Nouveau",
+            "Post-Impressionism",
+            "Expressionism"
+        ],
+        "top_relevant_ages_by_concept": [
+            "20-29",
+            "30-39",
+            "40-49",
+            "3-9",
+            "50-59"
+        ],
+        "top_relevant_colors_by_concept": [
+            "deeppink",
+            "mediumorchid",
+            "papayawhip",
+            "mintcream",
+            "aliceblue"
+        ],
+        "top_relevant_actions_by_concept": [
+            "clapping",
+            "hugging",
+            "listening_to_music",
+            "sitting",
+            "sleeping"
+        ],
+        "top_relevant_caption_words_by_concept": [
+            "palette",
+            "held",
+            "mustard",
+            "lid",
+            "bite",
+            "present",
+            "telescope",
+            "soap",
+            "shampoo",
+            "hagen",
+            "marshmallow",
+            "eagle",
+            "coup",
+            "lingersuit",
+            "panasonic"
+        ],
+        "top_relevant_objects_by_concept": [
+            "potted plant",
+            "vase",
+            "toaster",
+            "orange",
+            "fire hydrant",
+            "apple",
+            "couch",
+            "broccoli",
+            "dining table",
+            "cow"
+        ],
+        "top_relevant_emotions_by_concept": [
+            "contentment",
+            "awe",
+            "amusement",
+            "sadness",
+            "something else"
+        ]
+    }
+}

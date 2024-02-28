@@ -1,0 +1,221 @@
+{
+  "3253": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            233,
+            242,
+            210
+          ],
+          "webcolor_name": "beige",
+          "conceptnet_concept": "conceptnet:beige"
+        },
+        {
+          "rgb": [
+            74,
+            72,
+            59
+          ],
+          "webcolor_name": "darkslategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        },
+        {
+          "rgb": [
+            133,
+            105,
+            87
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            148,
+            157,
+            145
+          ],
+          "webcolor_name": "darkseagreen",
+          "conceptnet_concept": "conceptnet:dark_sea_green"
+        },
+        {
+          "rgb": [
+            155,
+            139,
+            96
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        }
+      ]
+    }
+  },
+  "11756": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            167,
+            145,
+            131
+          ],
+          "webcolor_name": "rosybrown",
+          "conceptnet_concept": "conceptnet:brown"
+        },
+        {
+          "rgb": [
+            139,
+            135,
+            195
+          ],
+          "webcolor_name": "mediumpurple",
+          "conceptnet_concept": "conceptnet:purple"
+        },
+        {
+          "rgb": [
+            72,
+            87,
+            57
+          ],
+          "webcolor_name": "darkolivegreen",
+          "conceptnet_concept": "conceptnet:olive_green"
+        },
+        {
+          "rgb": [
+            129,
+            112,
+            44
+          ],
+          "webcolor_name": "olivedrab",
+          "conceptnet_concept": "conceptnet:olive_drab"
+        }
+      ]
+    }
+  },
+  "14978": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            175,
+            187,
+            200
+          ],
+          "webcolor_name": "silver",
+          "conceptnet_concept": "conceptnet:silver"
+        },
+        {
+          "rgb": [
+            124,
+            117,
+            84
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            130,
+            133,
+            129
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            98,
+            113,
+            123
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            100,
+            100,
+            108
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        }
+      ]
+    }
+  },
+  "137": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            150,
+            136,
+            117
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            104,
+            88,
+            66
+          ],
+          "webcolor_name": "darkolivegreen",
+          "conceptnet_concept": "conceptnet:olive_green"
+        },
+        {
+          "rgb": [
+            123,
+            124,
+            116
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            113,
+            113,
+            110
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        }
+      ]
+    }
+  },
+  "3262": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            213,
+            135,
+            37
+          ],
+          "webcolor_name": "peru",
+          "conceptnet_concept": "conceptnet:peru"
+        },
+        {
+          "rgb": [
+            121,
+            50,
+            32
+          ],
+          "webcolor_name": "saddlebrown",
+          "conceptnet_concept": "conceptnet:saddle_brown"
+        },
+        {
+          "rgb": [
+            225,
+            200,
+            180
+          ],
+          "webcolor_name": "wheat",
+          "conceptnet_concept": "conceptnet:wheat"
+        }
+      ]
+    }
+  }
+}

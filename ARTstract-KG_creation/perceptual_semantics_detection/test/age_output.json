@@ -1,0 +1,47 @@
+{
+  "3253": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.32044246792793274
+      }
+    }
+  },
+  "11756": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.2672307789325714
+      }
+    }
+  },
+  "14978": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.3349549472332001
+      }
+    }
+  },
+  "137": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.3424389064311981
+      }
+    }
+  },
+  "3262": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.5648872256278992
+      }
+    }
+  }
+}

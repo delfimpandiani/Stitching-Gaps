@@ -1,0 +1,51 @@
+{
+  "hk_triumph_2": {
+    "ic": {
+      "ARTstract_ic_2023_06_28": {
+        "image_description": "painting of a woman holding a flag in front of a crowd of people"
+      }
+    }
+  },
+  "danger_3": {
+    "ic": {
+      "ARTstract_ic_2023_06_28": {
+        "image_description": "a painting of a painting of a wave in the ocean"
+      }
+    }
+  },
+  "delacroix": {
+    "ic": {
+      "ARTstract_ic_2023_06_28": {
+        "image_description": "painting of a woman holding a flag on top of a hill"
+      }
+    }
+  },
+  "hk_triumph": {
+    "ic": {
+      "ARTstract_ic_2023_06_28": {
+        "image_description": "painting of a woman holding a child in a crowded field"
+      }
+    }
+  },
+  "danger_1": {
+    "ic": {
+      "ARTstract_ic_2023_06_28": {
+        "image_description": "a close up of a cactus with a man's face and arms"
+      }
+    }
+  },
+  "triumph": {
+    "ic": {
+      "ARTstract_ic_2023_06_28": {
+        "image_description": "painting of a group of people in a room with a painting of angels"
+      }
+    }
+  },
+  "danger_2": {
+    "ic": {
+      "ARTstract_ic_2023_06_28": {
+        "image_description": "painting of a man on a horse being attacked by a group of men"
+      }
+    }
+  }
+}

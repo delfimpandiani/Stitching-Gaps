@@ -1,0 +1,359 @@
+{
+  "hk_triumph_2": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            34,
+            21,
+            17
+          ],
+          "webcolor_name": "black",
+          "conceptnet_concept": "conceptnet:black"
+        },
+        {
+          "rgb": [
+            178,
+            149,
+            113
+          ],
+          "webcolor_name": "rosybrown",
+          "conceptnet_concept": "conceptnet:brown"
+        },
+        {
+          "rgb": [
+            119,
+            96,
+            64
+          ],
+          "webcolor_name": "darkolivegreen",
+          "conceptnet_concept": "conceptnet:olive_green"
+        },
+        {
+          "rgb": [
+            142,
+            134,
+            122
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            99,
+            113,
+            133
+          ],
+          "webcolor_name": "slategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        }
+      ]
+    }
+  },
+  "danger_3": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            141,
+            155,
+            131
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            75,
+            93,
+            80
+          ],
+          "webcolor_name": "darkslategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        },
+        {
+          "rgb": [
+            214,
+            217,
+            186
+          ],
+          "webcolor_name": "lightgray",
+          "conceptnet_concept": "conceptnet:light_gray"
+        },
+        {
+          "rgb": [
+            206,
+            206,
+            170
+          ],
+          "webcolor_name": "silver",
+          "conceptnet_concept": "conceptnet:silver"
+        },
+        {
+          "rgb": [
+            92,
+            99,
+            84
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        }
+      ]
+    }
+  },
+  "delacroix": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            96,
+            87,
+            82
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            201,
+            215,
+            223
+          ],
+          "webcolor_name": "lightgray",
+          "conceptnet_concept": "conceptnet:light_gray"
+        },
+        {
+          "rgb": [
+            212,
+            163,
+            138
+          ],
+          "webcolor_name": "tan",
+          "conceptnet_concept": "conceptnet:tan"
+        },
+        {
+          "rgb": [
+            127,
+            151,
+            166
+          ],
+          "webcolor_name": "lightslategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        },
+        {
+          "rgb": [
+            173,
+            182,
+            179
+          ],
+          "webcolor_name": "darkgray",
+          "conceptnet_concept": "conceptnet:dark_gray"
+        }
+      ]
+    }
+  },
+  "hk_triumph": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            64,
+            63,
+            71
+          ],
+          "webcolor_name": "darkslategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        },
+        {
+          "rgb": [
+            206,
+            183,
+            156
+          ],
+          "webcolor_name": "tan",
+          "conceptnet_concept": "conceptnet:tan"
+        },
+        {
+          "rgb": [
+            157,
+            138,
+            120
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            174,
+            175,
+            165
+          ],
+          "webcolor_name": "darkgray",
+          "conceptnet_concept": "conceptnet:dark_gray"
+        },
+        {
+          "rgb": [
+            138,
+            148,
+            160
+          ],
+          "webcolor_name": "lightslategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        }
+      ]
+    }
+  },
+  "danger_1": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            80,
+            90,
+            45
+          ],
+          "webcolor_name": "darkolivegreen",
+          "conceptnet_concept": "conceptnet:olive_green"
+        },
+        {
+          "rgb": [
+            238,
+            228,
+            208
+          ],
+          "webcolor_name": "antiquewhite",
+          "conceptnet_concept": "conceptnet:antique_white"
+        },
+        {
+          "rgb": [
+            122,
+            133,
+            76
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            158,
+            155,
+            130
+          ],
+          "webcolor_name": "rosybrown",
+          "conceptnet_concept": "conceptnet:brown"
+        },
+        {
+          "rgb": [
+            127,
+            97,
+            77
+          ],
+          "webcolor_name": "dimgray",
+          "conceptnet_concept": "conceptnet:gray"
+        }
+      ]
+    }
+  },
+  "triumph": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            92,
+            81,
+            66
+          ],
+          "webcolor_name": "darkolivegreen",
+          "conceptnet_concept": "conceptnet:olive_green"
+        },
+        {
+          "rgb": [
+            213,
+            166,
+            125
+          ],
+          "webcolor_name": "tan",
+          "conceptnet_concept": "conceptnet:tan"
+        },
+        {
+          "rgb": [
+            199,
+            204,
+            190
+          ],
+          "webcolor_name": "silver",
+          "conceptnet_concept": "conceptnet:silver"
+        },
+        {
+          "rgb": [
+            138,
+            146,
+            138
+          ],
+          "webcolor_name": "gray",
+          "conceptnet_concept": "conceptnet:gray"
+        },
+        {
+          "rgb": [
+            168,
+            172,
+            155
+          ],
+          "webcolor_name": "darkgray",
+          "conceptnet_concept": "conceptnet:dark_gray"
+        }
+      ]
+    }
+  },
+  "danger_2": {
+    "color": {
+      "ARTstract_color_2023_06_26": [
+        {
+          "rgb": [
+            70,
+            60,
+            48
+          ],
+          "webcolor_name": "darkslategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        },
+        {
+          "rgb": [
+            205,
+            182,
+            147
+          ],
+          "webcolor_name": "tan",
+          "conceptnet_concept": "conceptnet:tan"
+        },
+        {
+          "rgb": [
+            130,
+            143,
+            179
+          ],
+          "webcolor_name": "lightslategray",
+          "conceptnet_concept": "conceptnet:slate_gray"
+        },
+        {
+          "rgb": [
+            147,
+            115,
+            79
+          ],
+          "webcolor_name": "sienna",
+          "conceptnet_concept": "conceptnet:sienna"
+        },
+        {
+          "rgb": [
+            161,
+            170,
+            173
+          ],
+          "webcolor_name": "darkgray",
+          "conceptnet_concept": "conceptnet:dark_gray"
+        }
+      ]
+    }
+  }
+}

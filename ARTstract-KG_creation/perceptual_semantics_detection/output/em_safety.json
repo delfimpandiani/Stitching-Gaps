@@ -1,0 +1,3206 @@
+{
+  "12150": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3063117265701294
+      }
+    }
+  },
+  "12266": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.4347718060016632
+      }
+    }
+  },
+  "3127": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.27006983757019043
+      }
+    }
+  },
+  "3149": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3725825548171997
+      }
+    }
+  },
+  "3124": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.28366589546203613
+      }
+    }
+  },
+  "3195": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2429634928703308
+      }
+    }
+  },
+  "3185": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.22698219120502472
+      }
+    }
+  },
+  "12283": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.25894272327423096
+      }
+    }
+  },
+  "3093": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3024352490901947
+      }
+    }
+  },
+  "3172": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.32734307646751404
+      }
+    }
+  },
+  "3026": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2158886045217514
+      }
+    }
+  },
+  "3046": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.18989063799381256
+      }
+    }
+  },
+  "12328": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.312716543674469
+      }
+    }
+  },
+  "3214": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.2795540690422058
+      }
+    }
+  },
+  "3207": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.41491833329200745
+      }
+    }
+  },
+  "12292": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.30529266595840454
+      }
+    }
+  },
+  "12194": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.21083693206310272
+      }
+    }
+  },
+  "12115": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.464478999376297
+      }
+    }
+  },
+  "12181": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3929990530014038
+      }
+    }
+  },
+  "12279": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.5003595948219299
+      }
+    }
+  },
+  "12305": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3250630795955658
+      }
+    }
+  },
+  "12246": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5238796472549438
+      }
+    }
+  },
+  "12193": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.24681447446346283
+      }
+    }
+  },
+  "3170": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.19747190177440643
+      }
+    }
+  },
+  "3197": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.21151241660118103
+      }
+    }
+  },
+  "3155": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.17877455055713654
+      }
+    }
+  },
+  "12230": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.22380951046943665
+      }
+    }
+  },
+  "3067": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2052258849143982
+      }
+    }
+  },
+  "3183": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.35857829451560974
+      }
+    }
+  },
+  "12209": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3090049624443054
+      }
+    }
+  },
+  "12229": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2797910273075104
+      }
+    }
+  },
+  "12330": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5839393138885498
+      }
+    }
+  },
+  "3151": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.219875305891037
+      }
+    }
+  },
+  "3073": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3995243310928345
+      }
+    }
+  },
+  "12265": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.33458125591278076
+      }
+    }
+  },
+  "12323": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3004295229911804
+      }
+    }
+  },
+  "12264": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.32606008648872375
+      }
+    }
+  },
+  "12281": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.6739576458930969
+      }
+    }
+  },
+  "3015": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.18264035880565643
+      }
+    }
+  },
+  "12293": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.28998878598213196
+      }
+    }
+  },
+  "2989": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.22346724569797516
+      }
+    }
+  },
+  "3121": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.23841941356658936
+      }
+    }
+  },
+  "3184": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.23275457322597504
+      }
+    }
+  },
+  "3189": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3259587287902832
+      }
+    }
+  },
+  "12261": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.24191126227378845
+      }
+    }
+  },
+  "12198": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2677205502986908
+      }
+    }
+  },
+  "12225": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.23754911124706268
+      }
+    }
+  },
+  "3018": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.30128175020217896
+      }
+    }
+  },
+  "3194": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.35318949818611145
+      }
+    }
+  },
+  "3177": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2597912549972534
+      }
+    }
+  },
+  "12116": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3007832467556
+      }
+    }
+  },
+  "12220": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.365899920463562
+      }
+    }
+  },
+  "12127": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.39293816685676575
+      }
+    }
+  },
+  "3107": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3544164299964905
+      }
+    }
+  },
+  "3212": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.1624075472354889
+      }
+    }
+  },
+  "3092": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.28414013981819153
+      }
+    }
+  },
+  "12165": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.39491337537765503
+      }
+    }
+  },
+  "12179": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2616731822490692
+      }
+    }
+  },
+  "12100": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.26605507731437683
+      }
+    }
+  },
+  "12231": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2469993233680725
+      }
+    }
+  },
+  "12249": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.38402628898620605
+      }
+    }
+  },
+  "3016": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.26830217242240906
+      }
+    }
+  },
+  "3108": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.1979750394821167
+      }
+    }
+  },
+  "180": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.20647157728672028
+      }
+    }
+  },
+  "3104": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2755514085292816
+      }
+    }
+  },
+  "3011": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4735654592514038
+      }
+    }
+  },
+  "3050": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.4009343385696411
+      }
+    }
+  },
+  "3129": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2109355479478836
+      }
+    }
+  },
+  "3219": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.279764324426651
+      }
+    }
+  },
+  "12325": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2989208400249481
+      }
+    }
+  },
+  "12099": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2737639844417572
+      }
+    }
+  },
+  "12214": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.2981618344783783
+      }
+    }
+  },
+  "12312": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.29732745885849
+      }
+    }
+  },
+  "3128": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2820344567298889
+      }
+    }
+  },
+  "12321": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3257753849029541
+      }
+    }
+  },
+  "3145": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.21966402232646942
+      }
+    }
+  },
+  "3058": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2935217022895813
+      }
+    }
+  },
+  "3180": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.24136823415756226
+      }
+    }
+  },
+  "3078": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2536577582359314
+      }
+    }
+  },
+  "3007": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.2999681830406189
+      }
+    }
+  },
+  "3106": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3073697090148926
+      }
+    }
+  },
+  "37416": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2680760324001312
+      }
+    }
+  },
+  "12235": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4839555621147156
+      }
+    }
+  },
+  "12205": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.20800448954105377
+      }
+    }
+  },
+  "3206": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2679860591888428
+      }
+    }
+  },
+  "3200": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.40421876311302185
+      }
+    }
+  },
+  "12259": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2620490491390228
+      }
+    }
+  },
+  "3022": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3592270314693451
+      }
+    }
+  },
+  "12167": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.26699164509773254
+      }
+    }
+  },
+  "3135": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.21490506827831268
+      }
+    }
+  },
+  "3115": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.21446122229099274
+      }
+    }
+  },
+  "12144": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5634595155715942
+      }
+    }
+  },
+  "12169": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4309384524822235
+      }
+    }
+  },
+  "3012": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.26132768392562866
+      }
+    }
+  },
+  "3064": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.24661043286323547
+      }
+    }
+  },
+  "3021": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3058977723121643
+      }
+    }
+  },
+  "12267": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.42455971240997314
+      }
+    }
+  },
+  "12307": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2892638146877289
+      }
+    }
+  },
+  "3163": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.297040194272995
+      }
+    }
+  },
+  "3025": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.22536353766918182
+      }
+    }
+  },
+  "12122": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.46098774671554565
+      }
+    }
+  },
+  "12149": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.42241719365119934
+      }
+    }
+  },
+  "12333": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3163297772407532
+      }
+    }
+  },
+  "12136": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.28584158420562744
+      }
+    }
+  },
+  "3084": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.22038620710372925
+      }
+    }
+  },
+  "12222": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.30293112993240356
+      }
+    }
+  },
+  "12256": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2127062976360321
+      }
+    }
+  },
+  "3077": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.23932872712612152
+      }
+    }
+  },
+  "2992": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2785753905773163
+      }
+    }
+  },
+  "12241": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.25108271837234497
+      }
+    }
+  },
+  "12291": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.30232855677604675
+      }
+    }
+  },
+  "3228": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.21628186106681824
+      }
+    }
+  },
+  "3043": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2365836501121521
+      }
+    }
+  },
+  "3113": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.32031893730163574
+      }
+    }
+  },
+  "12301": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.7059853076934814
+      }
+    }
+  },
+  "3166": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.21521033346652985
+      }
+    }
+  },
+  "12296": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3846714496612549
+      }
+    }
+  },
+  "12113": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4582330584526062
+      }
+    }
+  },
+  "3085": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.19892658293247223
+      }
+    }
+  },
+  "2995": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.19319988787174225
+      }
+    }
+  },
+  "12166": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.287111759185791
+      }
+    }
+  },
+  "2996": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.27031686902046204
+      }
+    }
+  },
+  "12234": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.40498900413513184
+      }
+    }
+  },
+  "3038": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2511764466762543
+      }
+    }
+  },
+  "12137": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.32693198323249817
+      }
+    }
+  },
+  "3053": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.26090189814567566
+      }
+    }
+  },
+  "3082": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.25262024998664856
+      }
+    }
+  },
+  "3181": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2152157872915268
+      }
+    }
+  },
+  "3152": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2924362123012543
+      }
+    }
+  },
+  "3119": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.24963411688804626
+      }
+    }
+  },
+  "2997": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.26774919033050537
+      }
+    }
+  },
+  "12227": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.28654780983924866
+      }
+    }
+  },
+  "3105": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2555293142795563
+      }
+    }
+  },
+  "12145": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.19433853030204773
+      }
+    }
+  },
+  "12184": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.33776652812957764
+      }
+    }
+  },
+  "3232": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.22574469447135925
+      }
+    }
+  },
+  "3143": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3008304238319397
+      }
+    }
+  },
+  "3148": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3627702593803406
+      }
+    }
+  },
+  "12140": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3030938506126404
+      }
+    }
+  },
+  "12134": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.23825030028820038
+      }
+    }
+  },
+  "12154": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2559967637062073
+      }
+    }
+  },
+  "12121": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.38882577419281006
+      }
+    }
+  },
+  "12212": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.3575482964515686
+      }
+    }
+  },
+  "37415": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2755061984062195
+      }
+    }
+  },
+  "12192": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.17396703362464905
+      }
+    }
+  },
+  "12160": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2627953886985779
+      }
+    }
+  },
+  "12188": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2513940930366516
+      }
+    }
+  },
+  "3193": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.24881377816200256
+      }
+    }
+  },
+  "12250": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3715347349643707
+      }
+    }
+  },
+  "3157": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2908560633659363
+      }
+    }
+  },
+  "3063": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.16327530145645142
+      }
+    }
+  },
+  "12171": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.41313207149505615
+      }
+    }
+  },
+  "3055": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.2396949976682663
+      }
+    }
+  },
+  "12180": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.22996452450752258
+      }
+    }
+  },
+  "12141": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.316220223903656
+      }
+    }
+  },
+  "3173": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.32093241810798645
+      }
+    }
+  },
+  "3192": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2552521824836731
+      }
+    }
+  },
+  "12239": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.24845385551452637
+      }
+    }
+  },
+  "3059": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.34918510913848877
+      }
+    }
+  },
+  "3125": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2634046673774719
+      }
+    }
+  },
+  "12290": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4629056751728058
+      }
+    }
+  },
+  "3074": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.28229624032974243
+      }
+    }
+  },
+  "12243": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2862977683544159
+      }
+    }
+  },
+  "37412": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.30020859837532043
+      }
+    }
+  },
+  "12236": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3672415316104889
+      }
+    }
+  },
+  "12282": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.36630356311798096
+      }
+    }
+  },
+  "12223": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.31027400493621826
+      }
+    }
+  },
+  "12272": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.41246283054351807
+      }
+    }
+  },
+  "3191": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.19675354659557343
+      }
+    }
+  },
+  "12174": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.385323703289032
+      }
+    }
+  },
+  "3017": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.38086363673210144
+      }
+    }
+  },
+  "12164": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.21555259823799133
+      }
+    }
+  },
+  "12251": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3556738793849945
+      }
+    }
+  },
+  "12206": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.390089750289917
+      }
+    }
+  },
+  "12123": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5497848987579346
+      }
+    }
+  },
+  "12130": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.31193554401397705
+      }
+    }
+  },
+  "3049": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.21362972259521484
+      }
+    }
+  },
+  "2991": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2388485074043274
+      }
+    }
+  },
+  "12327": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.3005165159702301
+      }
+    }
+  },
+  "12163": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.1921699345111847
+      }
+    }
+  },
+  "12318": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3581515848636627
+      }
+    }
+  },
+  "3039": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.26439177989959717
+      }
+    }
+  },
+  "12128": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.273937851190567
+      }
+    }
+  },
+  "12297": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.24267107248306274
+      }
+    }
+  },
+  "3126": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.20302703976631165
+      }
+    }
+  },
+  "12298": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2924046814441681
+      }
+    }
+  },
+  "3066": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.26569491624832153
+      }
+    }
+  },
+  "12195": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.2574509382247925
+      }
+    }
+  },
+  "3056": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3544226884841919
+      }
+    }
+  },
+  "3097": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.2530098855495453
+      }
+    }
+  },
+  "12175": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3841780722141266
+      }
+    }
+  },
+  "3141": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2832237482070923
+      }
+    }
+  },
+  "37417": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2591782808303833
+      }
+    }
+  },
+  "3023": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.39003849029541016
+      }
+    }
+  },
+  "3139": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.3011644780635834
+      }
+    }
+  },
+  "12233": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3527389168739319
+      }
+    }
+  },
+  "12110": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2264755219221115
+      }
+    }
+  },
+  "12159": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.26713088154792786
+      }
+    }
+  },
+  "3035": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3146701753139496
+      }
+    }
+  },
+  "12168": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3399502635002136
+      }
+    }
+  },
+  "3220": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3332844078540802
+      }
+    }
+  },
+  "12277": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.422940731048584
+      }
+    }
+  },
+  "12271": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2829170525074005
+      }
+    }
+  },
+  "3033": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.260342538356781
+      }
+    }
+  },
+  "3062": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.38320332765579224
+      }
+    }
+  },
+  "3076": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.2255294919013977
+      }
+    }
+  },
+  "12105": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.33988723158836365
+      }
+    }
+  },
+  "12112": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3209943473339081
+      }
+    }
+  },
+  "12245": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.37617576122283936
+      }
+    }
+  },
+  "12202": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.28595563769340515
+      }
+    }
+  },
+  "12299": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.36621546745300293
+      }
+    }
+  },
+  "12133": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3580564558506012
+      }
+    }
+  },
+  "3130": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2749059200286865
+      }
+    }
+  },
+  "179": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3406960666179657
+      }
+    }
+  },
+  "3052": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2736579477787018
+      }
+    }
+  },
+  "12211": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4203898012638092
+      }
+    }
+  },
+  "12326": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3621366322040558
+      }
+    }
+  },
+  "3114": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.4092702269554138
+      }
+    }
+  },
+  "12152": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.6449781656265259
+      }
+    }
+  },
+  "3014": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.30185821652412415
+      }
+    }
+  },
+  "12139": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3368646800518036
+      }
+    }
+  },
+  "3005": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3093739151954651
+      }
+    }
+  },
+  "3019": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3280417025089264
+      }
+    }
+  },
+  "12177": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5269725322723389
+      }
+    }
+  },
+  "3098": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.24514615535736084
+      }
+    }
+  },
+  "3136": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.5419223308563232
+      }
+    }
+  },
+  "3101": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.21599993109703064
+      }
+    }
+  },
+  "3034": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.24415695667266846
+      }
+    }
+  },
+  "12294": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2957656979560852
+      }
+    }
+  },
+  "12108": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.19895076751708984
+      }
+    }
+  },
+  "3175": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.24656011164188385
+      }
+    }
+  },
+  "3162": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.33379650115966797
+      }
+    }
+  },
+  "37414": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "excitement",
+        "conceptnet_concept": "conceptnet:excitement",
+        "annotation_strength": 0.19906987249851227
+      }
+    }
+  },
+  "12117": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.20855094492435455
+      }
+    }
+  },
+  "3051": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.24562999606132507
+      }
+    }
+  },
+  "12252": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2742202579975128
+      }
+    }
+  },
+  "3091": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.21371990442276
+      }
+    }
+  },
+  "3103": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.18712939321994781
+      }
+    }
+  },
+  "12200": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.48134663701057434
+      }
+    }
+  },
+  "12125": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.47160017490386963
+      }
+    }
+  },
+  "3041": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.28902265429496765
+      }
+    }
+  },
+  "12240": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2473977655172348
+      }
+    }
+  },
+  "3045": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.25255101919174194
+      }
+    }
+  },
+  "3030": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.35126325488090515
+      }
+    }
+  },
+  "12311": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.28817376494407654
+      }
+    }
+  },
+  "12131": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.49874573945999146
+      }
+    }
+  },
+  "3159": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.19176030158996582
+      }
+    }
+  },
+  "3060": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2651502192020416
+      }
+    }
+  },
+  "12319": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4456292986869812
+      }
+    }
+  },
+  "3203": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.33632612228393555
+      }
+    }
+  },
+  "3069": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.25011569261550903
+      }
+    }
+  },
+  "3009": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3145471215248108
+      }
+    }
+  },
+  "2988": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.2287541776895523
+      }
+    }
+  },
+  "3117": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.27105921506881714
+      }
+    }
+  },
+  "12207": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3946189284324646
+      }
+    }
+  },
+  "12106": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.29086950421333313
+      }
+    }
+  },
+  "12284": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.370835542678833
+      }
+    }
+  },
+  "3031": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.22886322438716888
+      }
+    }
+  },
+  "3075": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2735295593738556
+      }
+    }
+  },
+  "12226": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.4043930470943451
+      }
+    }
+  },
+  "3042": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.2809648811817169
+      }
+    }
+  },
+  "12124": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5437962412834167
+      }
+    }
+  },
+  "12269": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4095885157585144
+      }
+    }
+  },
+  "12308": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.30449149012565613
+      }
+    }
+  },
+  "12221": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.30624353885650635
+      }
+    }
+  },
+  "3164": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.17497260868549347
+      }
+    }
+  },
+  "12218": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.25335201621055603
+      }
+    }
+  },
+  "12153": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2860679626464844
+      }
+    }
+  },
+  "2994": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.20158281922340393
+      }
+    }
+  },
+  "3090": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.23475228250026703
+      }
+    }
+  },
+  "3234": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3558112680912018
+      }
+    }
+  },
+  "3218": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2859160602092743
+      }
+    }
+  },
+  "3222": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.38663357496261597
+      }
+    }
+  },
+  "12295": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.19353243708610535
+      }
+    }
+  },
+  "3188": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.23349128663539886
+      }
+    }
+  },
+  "3187": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3304835855960846
+      }
+    }
+  },
+  "3201": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3242093026638031
+      }
+    }
+  },
+  "3171": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.25203216075897217
+      }
+    }
+  },
+  "12289": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3254256248474121
+      }
+    }
+  },
+  "12182": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.1797095537185669
+      }
+    }
+  },
+  "12156": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4614575505256653
+      }
+    }
+  },
+  "12094": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.25236523151397705
+      }
+    }
+  },
+  "3099": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.30954694747924805
+      }
+    }
+  },
+  "12172": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4870036244392395
+      }
+    }
+  },
+  "3089": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.30193206667900085
+      }
+    }
+  },
+  "12253": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.36826661229133606
+      }
+    }
+  },
+  "12158": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2958829402923584
+      }
+    }
+  },
+  "12178": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4893195629119873
+      }
+    }
+  },
+  "12215": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.39514073729515076
+      }
+    }
+  },
+  "12270": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2668018937110901
+      }
+    }
+  },
+  "3088": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.23179902136325836
+      }
+    }
+  },
+  "12288": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.3398221433162689
+      }
+    }
+  },
+  "3003": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.22582150995731354
+      }
+    }
+  },
+  "12135": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3270879089832306
+      }
+    }
+  },
+  "12304": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.24017377197742462
+      }
+    }
+  },
+  "12285": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.18804597854614258
+      }
+    }
+  },
+  "12278": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.23912227153778076
+      }
+    }
+  },
+  "3087": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.22139860689640045
+      }
+    }
+  },
+  "12203": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3607719838619232
+      }
+    }
+  },
+  "3116": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "sadness",
+        "conceptnet_concept": "conceptnet:sadness",
+        "annotation_strength": 0.2641424238681793
+      }
+    }
+  },
+  "3109": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2740904688835144
+      }
+    }
+  },
+  "3230": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.227041557431221
+      }
+    }
+  },
+  "3140": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.21285182237625122
+      }
+    }
+  },
+  "3204": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.26714035868644714
+      }
+    }
+  },
+  "3213": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.23723500967025757
+      }
+    }
+  },
+  "12216": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "excitement",
+        "conceptnet_concept": "conceptnet:excitement",
+        "annotation_strength": 0.2554323375225067
+      }
+    }
+  },
+  "12306": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.2568451166152954
+      }
+    }
+  },
+  "3160": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2585282325744629
+      }
+    }
+  },
+  "3083": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3381144404411316
+      }
+    }
+  },
+  "3161": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2052692323923111
+      }
+    }
+  },
+  "12138": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.415024995803833
+      }
+    }
+  },
+  "12274": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.22343219816684723
+      }
+    }
+  },
+  "3225": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.25766244530677795
+      }
+    }
+  },
+  "3040": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "something else",
+        "conceptnet_concept": "conceptnet:something_else",
+        "annotation_strength": 0.23690958321094513
+      }
+    }
+  },
+  "12176": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.48685380816459656
+      }
+    }
+  },
+  "3198": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2351069301366806
+      }
+    }
+  },
+  "12162": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.5522002577781677
+      }
+    }
+  },
+  "3223": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3223174810409546
+      }
+    }
+  },
+  "3061": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2500409185886383
+      }
+    }
+  },
+  "12199": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.22984255850315094
+      }
+    }
+  },
+  "3006": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.3908762037754059
+      }
+    }
+  },
+  "12263": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4435982406139374
+      }
+    }
+  },
+  "12109": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.23592251539230347
+      }
+    }
+  },
+  "37413": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "excitement",
+        "conceptnet_concept": "conceptnet:excitement",
+        "annotation_strength": 0.400120347738266
+      }
+    }
+  },
+  "3032": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.21244582533836365
+      }
+    }
+  },
+  "12107": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.3158911466598511
+      }
+    }
+  },
+  "3153": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2316088080406189
+      }
+    }
+  },
+  "12317": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.41633516550064087
+      }
+    }
+  },
+  "3131": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2403993457555771
+      }
+    }
+  },
+  "3210": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3547048270702362
+      }
+    }
+  },
+  "12248": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.2239307016134262
+      }
+    }
+  },
+  "12217": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2629382312297821
+      }
+    }
+  },
+  "3081": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.31143003702163696
+      }
+    }
+  },
+  "12287": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3842603862285614
+      }
+    }
+  },
+  "12132": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.4055522680282593
+      }
+    }
+  },
+  "3054": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.29624536633491516
+      }
+    }
+  },
+  "12104": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.4325110614299774
+      }
+    }
+  },
+  "3215": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.16258017718791962
+      }
+    }
+  },
+  "3205": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.26041585206985474
+      }
+    }
+  },
+  "3182": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.20561930537223816
+      }
+    }
+  },
+  "3167": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.344199538230896
+      }
+    }
+  },
+  "3154": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2403915673494339
+      }
+    }
+  },
+  "3137": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.475650817155838
+      }
+    }
+  },
+  "3013": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.27609214186668396
+      }
+    }
+  },
+  "3024": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.21426472067832947
+      }
+    }
+  },
+  "3165": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2899692952632904
+      }
+    }
+  },
+  "12237": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2597840130329132
+      }
+    }
+  },
+  "3221": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.20002518594264984
+      }
+    }
+  },
+  "12142": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.23541566729545593
+      }
+    }
+  },
+  "12148": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.3378494083881378
+      }
+    }
+  },
+  "3231": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.20807799696922302
+      }
+    }
+  },
+  "3186": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.2524735629558563
+      }
+    }
+  },
+  "3179": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.24655170738697052
+      }
+    }
+  },
+  "3142": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "amusement",
+        "conceptnet_concept": "conceptnet:amusement",
+        "annotation_strength": 0.27844154834747314
+      }
+    }
+  },
+  "12320": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.42321380972862244
+      }
+    }
+  },
+  "12155": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.3318747282028198
+      }
+    }
+  }
+}

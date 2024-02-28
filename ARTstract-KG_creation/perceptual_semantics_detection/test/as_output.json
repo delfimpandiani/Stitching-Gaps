@@ -1,0 +1,47 @@
+{
+  "3253": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.4948684275150299
+      }
+    }
+  },
+  "11756": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.29834190011024475
+      }
+    }
+  },
+  "14978": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Impressionism",
+        "conceptnet_concept": "conceptnet:impressionism",
+        "annotation_strength": 0.6149182915687561
+      }
+    }
+  },
+  "137": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Baroque",
+        "conceptnet_concept": "conceptnet:baroque",
+        "annotation_strength": 0.8076211214065552
+      }
+    }
+  },
+  "3262": {
+    "as": {
+      "ARTstract_as_2023_06_26": {
+        "art_style": "Surrealism",
+        "conceptnet_concept": "conceptnet:surrealism",
+        "annotation_strength": 0.9431456327438354
+      }
+    }
+  }
+}

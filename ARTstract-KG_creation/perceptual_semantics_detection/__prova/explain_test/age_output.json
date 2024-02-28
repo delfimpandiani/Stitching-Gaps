@@ -1,0 +1,65 @@
+{
+  "hk_triumph_2": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.4981885254383087
+      }
+    }
+  },
+  "danger_3": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.37978947162628174
+      }
+    }
+  },
+  "delacroix": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.4397295117378235
+      }
+    }
+  },
+  "hk_triumph": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.27712106704711914
+      }
+    }
+  },
+  "danger_1": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "30-39",
+        "conceptnet_concept": "conceptnet:thirties",
+        "annotation_strength": 0.2669229507446289
+      }
+    }
+  },
+  "triumph": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "30-39",
+        "conceptnet_concept": "conceptnet:thirties",
+        "annotation_strength": 0.3193354606628418
+      }
+    }
+  },
+  "danger_2": {
+    "age": {
+      "ARTstract_age_2023_06_26": {
+        "age_tier": "20-29",
+        "conceptnet_concept": "conceptnet:twenties",
+        "annotation_strength": 0.3859154284000397
+      }
+    }
+  }
+}

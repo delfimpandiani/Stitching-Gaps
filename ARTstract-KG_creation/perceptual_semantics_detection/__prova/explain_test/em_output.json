@@ -1,0 +1,65 @@
+{
+  "hk_triumph_2": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.40392687916755676
+      }
+    }
+  },
+  "danger_3": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.36720120906829834
+      }
+    }
+  },
+  "delacroix": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.20977826416492462
+      }
+    }
+  },
+  "hk_triumph": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.1955239176750183
+      }
+    }
+  },
+  "danger_1": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "contentment",
+        "conceptnet_concept": "conceptnet:contentment",
+        "annotation_strength": 0.2654637098312378
+      }
+    }
+  },
+  "triumph": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "awe",
+        "conceptnet_concept": "conceptnet:awe",
+        "annotation_strength": 0.33301615715026855
+      }
+    }
+  },
+  "danger_2": {
+    "em": {
+      "ARTstract_em_2023_06_26": {
+        "emotion": "fear",
+        "conceptnet_concept": "conceptnet:fear",
+        "annotation_strength": 0.2720450162887573
+      }
+    }
+  }
+}
